@@ -1,0 +1,6 @@
+{
+    "require": {
+        "maxakawizard/po-parser": "^1.2",
+        "dejurin/php-google-translate-for-free": "^1.0"
+    }
+}

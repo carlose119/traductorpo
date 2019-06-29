@@ -1,0 +1,2897 @@
+#: View/GenericLists/view.ctp:75
+#: View_backup/GenericLists/view.ctp:75
+msgid "The availability of this product has been reduced from %s which is the recommended quantity to %s"
+msgstr "A disponibilidade deste produto foi reduzida de% s, que é a quantidade recomendada para% s"
+
+#: View/GenericLists/view.ctp:77;131
+#: View_backup/GenericLists/view.ctp:77;131
+msgid "This product is no longer available"
+msgstr "Este produto não está mais disponível"
+
+#: View/GenericLists/view.ctp:129
+#: View_backup/GenericLists/view.ctp:129
+msgid "This product doesn't have enough stock left to fullfill the recommended quantity of %s unit(s)"
+msgstr "Este produto não tem estoque suficiente para preencher a quantidade recomendada de unidade (s)% s"
+
+#: View/GenericLists/view.ctp:174
+msgid "Comments regarding this list"
+msgstr "Comentários sobre esta lista"
+
+#: View/GenericLists/view.ctp:183
+#: View/Schools/view.ctp:202
+msgid "Other products you might like"
+msgstr "Outros produtos que você pode gostar"
+
+#: View/GenericLists/view.ctp:183
+msgid "These products do not qualify for the minimum purchase amount of this list"
+msgstr "Estes produtos não se qualificam para o valor mínimo de compra desta lista"
+
+#: View/GenericLists/view.ctp:235
+#: View/Orders/checkout.ctp:774
+#: View/Orders/payment.ctp:238
+#: View/Orders/rejected.ctp:86
+#: View/Orders/review.ctp:657
+#: View/Orders/shipping.ctp:218
+#: View/Orders/succeed.ctp:95
+#: View/ShoppingCarts/index.ctp:618
+#: View/ShoppingCarts/index_cookie.ctp:538
+#: View_backup/GenericLists/view.ctp:235
+#: View_backup/Orders/review.ctp:624
+#: View_backup/ShoppingCarts/index.ctp:542
+#: View_backup/ShoppingCarts/index_cookie.ctp:527
+msgid "Order summary"
+msgstr "Resumo do pedido"
+
+#: View/GenericLists/view.ctp:241
+#: View_backup/GenericLists/view.ctp:241
+msgid "Minimum purchase amount for this list"
+msgstr "Quantia mínima de compra para esta lista"
+
+#: View/GenericLists/view.ctp:245
+#: View_backup/GenericLists/view.ctp:245
+msgid "List's subtotal"
+msgstr "Subtotal da lista"
+
+#: View/GenericLists/view.ctp:249
+#: View_backup/GenericLists/view.ctp:249
+msgid "Other products"
+msgstr "Outros produtos"
+
+#: View/GroupTerms/admin_add.ctp:86
+#: View/GroupTerms/admin_edit.ctp:58
+#: View_backup/GroupTerms/admin_add.ctp:86
+#: View_backup/GroupTerms/admin_edit.ctp:58
+msgid "Add another term"
+msgstr "Adicionar outro termo"
+
+#: View/GroupTerms/admin_edit.ctp:104
+#: View_backup/GroupTerms/admin_edit.ctp:104
+msgid "Are you sure you want to delete this term?"
+msgstr "Tem certeza de que deseja excluir este termo?"
+
+#: View/GroupTerms/admin_index.ctp:116
+#: View_backup/GroupTerms/admin_index.ctp:116
+msgid "Are you sure you want to delete the group terms: %s"
+msgstr "Tem certeza de que deseja excluir os termos do grupo:% s"
+
+#: View/Layouts/school_front.ctp:82
+#: View_backup/Layouts/school_front.ctp:81
+#: webroot/plugins/infinite-scroll/wordpress-plugin/infinite-scroll.php:99
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: View/Maintenance/index.ctp:1
+msgid "On construction"
+msgstr "Na construção"
+
+#: View/Maintenance/index.ctp:15
+msgid "We are currently working on an awesome site... But don't worry, won't be long !!!"
+msgstr "Atualmente estamos trabalhando em um site incrível ... Mas não se preocupe, não vai demorar muito !!!"
+
+#: View/Orders/admin_view.ctp:41
+#: View/Orders/admin_view_old.ctp:40
+msgid "Cancel Single Item(s) & Refund"
+msgstr "Cancelar item (ns) único (s) e reembolso"
+
+#: View/Orders/admin_view.ctp:43
+#: View/Orders/admin_view_old.ctp:41
+#: View_backup/Orders/admin_view.ctp:39
+msgid "Cancel & refund order"
+msgstr "Cancelar e devolver pedido"
+
+#: View/Orders/admin_view.ctp:44
+#: View/Orders/admin_view_old.ctp:42
+msgid "Cancelled Item(s)"
+msgstr "Item (ns) cancelado (s)"
+
+#: View/Orders/admin_view.ctp:54
+#: View/Orders/admin_view_old.ctp:52
+msgid "Customer information"
+msgstr "Informação ao Cliente"
+
+#: View/Orders/admin_view.ctp:87
+#: View/Orders/admin_view_old.ctp:85
+#: View/SchoolOrders/admin_view.ctp:43
+#: View_backup/Orders/admin_view.ctp:49
+#: View_backup/SchoolOrders/admin_view.ctp:43
+msgid "Billing information"
+msgstr "Informações de pagamento"
+
+#: View/Orders/admin_view.ctp:98
+#: View/Orders/admin_view_old.ctp:96
+#: View/Orders/checkout.ctp:112
+#: View/Orders/review.ctp:265;370;487;625
+#: View/Orders/share_order.ctp:135
+#: View/Orders/view.ctp:153
+#: View/SchoolOrders/admin_view.ctp:55
+#: View/SchoolOrders/school_checkout.ctp:219
+#: View/SchoolOrders/school_review.ctp:96
+#: View/SchoolOrders/school_view.ctp:92
+#: View_backup/Orders/admin_view.ctp:60
+#: View_backup/Orders/review.ctp:238;337;454;592
+#: View_backup/Orders/share_order.ctp:135
+#: View_backup/Orders/view.ctp:134
+#: View_backup/SchoolOrders/admin_view.ctp:55
+#: View_backup/SchoolOrders/school_checkout.ctp:219
+#: View_backup/SchoolOrders/school_review.ctp:96
+#: View_backup/SchoolOrders/school_view.ctp:92
+msgid "Street 1"
+msgstr "Rua 1"
+
+#: View/Orders/admin_view.ctp:102
+#: View/Orders/admin_view_old.ctp:100
+#: View/Orders/checkout.ctp:121
+#: View/Orders/review.ctp:268;373;490;629
+#: View/Orders/share_order.ctp:139
+#: View/Orders/view.ctp:157
+#: View/SchoolOrders/admin_view.ctp:61
+#: View/SchoolOrders/school_checkout.ctp:224
+#: View/SchoolOrders/school_review.ctp:101
+#: View_backup/Orders/admin_view.ctp:64
+#: View_backup/Orders/review.ctp:241;340;457;596
+#: View_backup/Orders/share_order.ctp:139
+#: View_backup/Orders/view.ctp:138
+#: View_backup/SchoolOrders/admin_view.ctp:61
+#: View_backup/SchoolOrders/school_checkout.ctp:224
+#: View_backup/SchoolOrders/school_review.ctp:101
+msgid "Street 2"
+msgstr "Rua # 2"
+
+#: View/Orders/admin_view.ctp:118
+#: View/Orders/admin_view_old.ctp:116
+#: View/Orders/checkout.ctp:374
+#: View/Orders/payment.ctp:189
+#: View/Orders/review.ctp:640
+#: View/Orders/share_order.ctp:150
+#: View/Orders/view.ctp:168
+#: View/SchoolOrders/admin_view.ctp:85
+#: View/StripeWebhook/payment_method.ctp:171
+#: View/StripeWebhook/update_subscription.ctp:172
+#: View_backup/Orders/admin_view.ctp:80
+#: View_backup/Orders/review.ctp:607
+#: View_backup/Orders/share_order.ctp:150
+#: View_backup/Orders/view.ctp:149
+#: View_backup/SchoolOrders/admin_view.ctp:85
+msgid "Country"
+msgstr "País"
+
+#: View/Orders/admin_view.ctp:122
+#: View/Orders/admin_view_old.ctp:120
+#: View/SchoolOrders/admin_view.ctp:91
+#: View_backup/Orders/admin_view.ctp:84
+#: View_backup/SchoolOrders/admin_view.ctp:91
+msgid "Credit Card Last 4"
+msgstr "Cartão de Crédito Últimos 4"
+
+#: View/Orders/admin_view.ctp:126
+#: View/Orders/admin_view_old.ctp:124
+#: View/SchoolOrders/admin_view.ctp:97
+#: View_backup/Orders/admin_view.ctp:88
+#: View_backup/SchoolOrders/admin_view.ctp:97
+msgid "Credit Card Brand"
+msgstr "Marca de cartão de crédito"
+
+#: View/Orders/admin_view.ctp:143;180
+#: View/Orders/admin_view_old.ctp:141
+#: View/SchoolSales/admin_view.ctp:50
+msgid "Student information"
+msgstr "Informação do aluno"
+
+#: View/Orders/admin_view.ctp:206
+#: View/Orders/admin_view_old.ctp:169
+#: View/SchoolOrders/admin_view.ctp:118
+#: View_backup/Orders/admin_view.ctp:108
+#: View_backup/SchoolOrders/admin_view.ctp:118
+msgid "Shipment Parcel"
+msgstr "Pacote de Remessa"
+
+#: View/Orders/admin_view.ctp:218
+#: View/Orders/admin_view_old.ctp:181
+#: View/SchoolOrders/admin_view.ctp:126
+#: View_backup/Orders/admin_view.ctp:116
+#: View_backup/SchoolOrders/admin_view.ctp:126
+msgid "Mark shipment as PACKAGED"
+msgstr "Marcar remessa como EMPACOTADA"
+
+#: View/Orders/admin_view.ctp:226
+#: View/Orders/admin_view_old.ctp:189
+#: View/SchoolOrders/admin_view.ctp:134
+#: View_backup/Orders/admin_view.ctp:124
+#: View_backup/SchoolOrders/admin_view.ctp:134
+msgid "Are you sure you want to mark this shipment as PACKAGED?"
+msgstr "Tem certeza de que deseja marcar esta remessa como EMPACOTADA?"
+
+#: View/Orders/admin_view.ctp:324
+#: View/Orders/admin_view_old.ctp:287
+#: View/SchoolOrders/admin_view.ctp:141
+#: View_backup/Orders/admin_view.ctp:131
+#: View_backup/SchoolOrders/admin_view.ctp:141
+msgid "Mark shipment carrier status as IN TRANSIT"
+msgstr "Marcar o status da transportadora como IN TRANSIT"
+
+#: View/Orders/admin_view.ctp:332
+#: View/Orders/admin_view_old.ctp:295
+#: View/SchoolOrders/admin_view.ctp:149
+#: View_backup/Orders/admin_view.ctp:139
+#: View_backup/SchoolOrders/admin_view.ctp:149
+msgid "Are you sure you want to mark this shipment carrier status to IN TRANSIT?"
+msgstr "Tem certeza de que deseja marcar o status dessa transportadora de remessa como IN TRANSIT?"
+
+#: View/Orders/admin_view.ctp:335
+#: View/Orders/admin_view_old.ctp:298
+#: View/SchoolOrders/admin_view.ctp:152
+#: View_backup/Orders/admin_view.ctp:142
+#: View_backup/SchoolOrders/admin_view.ctp:152
+msgid "Mark shipment carrier status as DELIVERED"
+msgstr "Marcar status de transportadora de remessa como DELIVERED"
+
+#: View/Orders/admin_view.ctp:343
+#: View/Orders/admin_view_old.ctp:306
+#: View/SchoolOrders/admin_view.ctp:160
+#: View_backup/Orders/admin_view.ctp:150
+#: View_backup/SchoolOrders/admin_view.ctp:160
+msgid "Are you sure you want to mark this shipment carrier status to DELIVERED?"
+msgstr "Tem certeza de que deseja marcar este status de transportadora de remessa como ENTREGUE?"
+
+#: View/Orders/admin_view.ctp:431
+#: View/Orders/admin_view_old.ctp:394
+#: View/SchoolOrders/admin_view.ctp:248
+#: View_backup/Orders/admin_view.ctp:238
+#: View_backup/SchoolOrders/admin_view.ctp:248
+msgid "Parcel Width"
+msgstr "Largura da Parcela"
+
+#: View/Orders/admin_view.ctp:435
+#: View/Orders/admin_view_old.ctp:398
+#: View/SchoolOrders/admin_view.ctp:252
+#: View_backup/Orders/admin_view.ctp:242
+#: View_backup/SchoolOrders/admin_view.ctp:252
+msgid "Parcel Length"
+msgstr "Comprimento de Parcela"
+
+#: View/Orders/admin_view.ctp:439
+#: View/Orders/admin_view_old.ctp:402
+#: View/SchoolOrders/admin_view.ctp:256
+#: View_backup/Orders/admin_view.ctp:246
+#: View_backup/SchoolOrders/admin_view.ctp:256
+msgid "Parcel Height"
+msgstr "Altura do pacote"
+
+#: View/Orders/admin_view.ctp:443
+#: View/Orders/admin_view_old.ctp:406
+#: View/SchoolOrders/admin_view.ctp:260
+#: View_backup/Orders/admin_view.ctp:250
+#: View_backup/SchoolOrders/admin_view.ctp:260
+msgid "Parcel Weight"
+msgstr "Peso da parcela"
+
+#: View/Orders/admin_view.ctp:454;511
+#: View/Orders/admin_view_old.ctp:417;470
+#: View/SchoolOrders/admin_view.ctp:271;324
+#: View_backup/Orders/admin_view.ctp:261;314
+#: View_backup/SchoolOrders/admin_view.ctp:271;324
+msgid "Image"
+msgstr "Imagem"
+
+#: View/Orders/admin_view.ctp:459;516
+#: View/Orders/admin_view_old.ctp:421;475
+#: View/Orders/share_order.ctp:74
+#: View/Orders/view.ctp:87
+#: View/SchoolOrders/admin_view.ctp:275;329
+#: View_backup/Orders/admin_view.ctp:265;319
+#: View_backup/SchoolOrders/admin_view.ctp:275;329
+msgid "Tax Amount"
+msgstr "Montante Fiscal"
+
+#: View/Orders/admin_view.ctp:515
+#: View/Orders/admin_view_old.ctp:474
+#: View/SchoolOrders/admin_view.ctp:328
+#: View_backup/Orders/admin_view.ctp:318
+#: View_backup/SchoolOrders/admin_view.ctp:328
+msgid "Tax Rate"
+msgstr "Taxa de imposto"
+
+#: View/Orders/admin_view.ctp:547
+#: View/Orders/admin_view_old.ctp:506
+#: View_backup/Orders/admin_view.ctp:350
+msgid "Refunds"
+msgstr "Reembolsos"
+
+#: View/Orders/admin_view.ctp:553
+#: View/Orders/admin_view_old.ctp:512
+#: View_backup/Orders/admin_view.ctp:356
+msgid "Amount refunded"
+msgstr "Montante reembolsado"
+
+#: View/Orders/admin_view.ctp:572
+#: View/Orders/admin_view_old.ctp:531
+#: View/Orders/checkout.ctp:787
+#: View/Orders/payment.ctp:251
+#: View/Orders/payment_old.ctp:245
+#: View/Orders/rejected.ctp:99
+#: View/Orders/review.ctp:670
+#: View/Orders/shipping.ctp:231
+#: View/Orders/succeed.ctp:108
+#: View_backup/Orders/admin_view.ctp:375
+#: View_backup/Orders/payment.ctp:245
+#: View_backup/Orders/rejected.ctp:99
+#: View_backup/Orders/review.ctp:637
+#: View_backup/Orders/shipping.ctp:229
+#: View_backup/Orders/succeed.ctp:100
+msgid "Discounts"
+msgstr "Descontos"
+
+#: View/Orders/admin_view.ctp:578
+#: View/Orders/admin_view_old.ctp:537
+#: View_backup/Orders/admin_view.ctp:381
+msgid "School List Discount"
+msgstr "Desconto na lista de escolas"
+
+#: View/Orders/admin_view.ctp:579
+#: View/Orders/admin_view_old.ctp:538
+#: View_backup/Orders/admin_view.ctp:382
+msgid "Discount Code"
+msgstr "Código de desconto"
+
+#: View/Orders/admin_view.ctp:580
+#: View/Orders/admin_view_old.ctp:539
+#: View_backup/Orders/admin_view.ctp:383
+msgid "Discount Percentage"
+msgstr "Porcentagem de desconto"
+
+#: View/Orders/admin_view.ctp:602
+#: View/Orders/admin_view_old.ctp:561
+#: View/SchoolOrders/admin_view.ctp:361
+#: View_backup/Orders/admin_view.ctp:405
+#: View_backup/SchoolOrders/admin_view.ctp:361
+msgid "Totals"
+msgstr "Totais"
+
+#: View/Orders/admin_view.ctp:822
+#: View/Orders/admin_view_old.ctp:775
+msgid "Cancel item(s)"
+msgstr "Cancelar itens)"
+
+#: View/Orders/admin_view.ctp:929
+#: View/Orders/admin_view_old.ctp:882
+#: View/SchoolOrders/admin_view.ctp:431;480
+#: View_backup/Orders/admin_view.ctp:475;524
+#: View_backup/SchoolOrders/admin_view.ctp:431;480
+msgid "Cancel order"
+msgstr "Cancelar pedido"
+
+#: View/Orders/checkout.ctp:22
+#: View/Orders/rejected.ctp:16
+#: View/Orders/shipping.ctp:20
+#: View/Orders/succeed.ctp:16
+msgid "Please wait while we calculate the best shipping fare for you..."
+msgstr "Por favor, aguarde enquanto calculamos a melhor tarifa de transporte para você ..."
+
+#: View/Orders/checkout.ctp:66
+#: View/Orders/review.ctp:88;258;363;480
+#: View/Orders/share_order.ctp:32
+#: View/Orders/shipping.ctp:49
+#: View/Orders/view.ctp:35
+msgid "Shipping Address"
+msgstr "endereço de entrega"
+
+#: View/Orders/checkout.ctp:70;242;443
+#: View/Orders/payment.ctp:52
+#: View/Orders/review.ctp:60
+#: View/Orders/shipping.ctp:53
+msgid "Order Review"
+msgstr "Revisão da encomenda"
+
+#: View/Orders/checkout.ctp:82
+#: View/Orders/shipping.ctp:65
+#: View_backup/Orders/checkout.ctp:81
+#: View_backup/Orders/shipping.ctp:64
+msgid "Remember"
+msgstr "Lembrar"
+
+#: View/Orders/checkout.ctp:83
+#: View/Orders/shipping.ctp:66
+#: View_backup/Orders/checkout.ctp:82
+#: View_backup/Orders/shipping.ctp:65
+msgid "The shipping information provided here applies only for products from the \"More Stuff\" section. We only ship within the UNITED STATES."
+msgstr "As informações de remessa fornecidas aqui aplicam-se apenas aos produtos da seção \"Mais material\". Nós enviamos somente dentro dos ESTADOS UNIDOS."
+
+#: View/Orders/checkout.ctp:93
+#: View/Orders/shipping.ctp:76
+msgid "First Name"
+msgstr "Primeiro nome"
+
+#: View/Orders/checkout.ctp:161
+#: View/Orders/shipping.ctp:144
+msgid "Zip"
+msgstr "Fecho eclair"
+
+#: View/Orders/checkout.ctp:181
+#: View/Orders/shipping.ctp:164
+#: View_backup/Orders/checkout.ctp:179
+#: View_backup/Orders/shipping.ctp:162
+msgid "Back to the basket"
+msgstr "De volta ao cesto"
+
+#: View/Orders/checkout.ctp:187
+#: View/Orders/shipping.ctp:170
+#: View_backup/Orders/checkout.ctp:185
+#: View_backup/Orders/shipping.ctp:168
+msgid "Continue to Payment Method"
+msgstr "Continuar para o método de pagamento"
+
+#: View/Orders/checkout.ctp:205
+#: View/Orders/shipping.ctp:188
+msgid "We couldn't verify your shipping address. If you are completely sure that the address your are using is correct please click continue, otherwise, please click on modify."
+msgstr "Não foi possível confirmar seu endereço de entrega. Se você está completamente certo de que o endereço que você está usando está correto, por favor clique em continuar, caso contrário, clique em modificar."
+
+#: View/Orders/checkout.ctp:235;423
+#: View/Orders/payment.ctp:45
+#: View/Orders/payment_old.ctp:44
+#: View/Orders/review.ctp:39
+#: View_backup/Orders/checkout.ctp:233;421
+#: View_backup/Orders/payment.ctp:44
+#: View_backup/Orders/review.ctp:39
+msgid "Shipping Information"
+msgstr "Informação de envio"
+
+#: View/Orders/checkout.ctp:285
+#: View/Orders/payment.ctp:100;101
+#: View/StripeWebhook/payment_method.ctp:82;83
+#: View/StripeWebhook/update_subscription.ctp:83;84
+msgid "Credit Card Number"
+msgstr "Número do Cartão de Crédito"
+
+#: View/Orders/checkout.ctp:286
+msgid "Valid Credit Card Number"
+msgstr "Número de cartão de crédito válido"
+
+#: View/Orders/checkout.ctp:291;293
+#: View/Orders/payment.ctp:106;108
+#: View/StripeWebhook/payment_method.ctp:88;90
+#: View/StripeWebhook/update_subscription.ctp:89;91
+msgid "CVV"
+msgstr "CVV"
+
+#: View/Orders/checkout.ctp:298
+#: View/Orders/payment.ctp:113
+#: View/StripeWebhook/payment_method.ctp:95
+#: View/StripeWebhook/update_subscription.ctp:96
+msgid "Exp. Month"
+msgstr "Exp. Mês"
+
+#: View/Orders/checkout.ctp:312
+#: View/Orders/payment.ctp:127
+#: View/StripeWebhook/payment_method.ctp:109
+#: View/StripeWebhook/update_subscription.ctp:110
+msgid "Exp. Year"
+msgstr "Exp. Ano"
+
+#: View/Orders/checkout.ctp:328
+#: View/Orders/payment.ctp:143
+#: View/StripeWebhook/payment_method.ctp:125
+#: View/StripeWebhook/update_subscription.ctp:126
+msgid "Cardholder's Name"
+msgstr "Nome do titular do cartão"
+
+#: View/Orders/checkout.ctp:329
+#: View/Orders/payment.ctp:144
+#: View/StripeWebhook/payment_method.ctp:126
+#: View/StripeWebhook/update_subscription.ctp:127
+msgid "Name on card"
+msgstr "Nome no cartão"
+
+#: View/Orders/checkout.ctp:334;335;342;343
+#: View/Orders/payment.ctp:149;150;157;158
+#: View/StripeWebhook/payment_method.ctp:131;132;139;140
+#: View/StripeWebhook/update_subscription.ctp:132;133;140;141
+msgid "Billing Address"
+msgstr "endereço de cobrança"
+
+#: View/Orders/checkout.ctp:342
+#: View/Orders/payment.ctp:157
+#: View/StripeWebhook/payment_method.ctp:139
+#: View/StripeWebhook/update_subscription.ctp:140
+msgid "optional"
+msgstr "opcional"
+
+#: View/Orders/checkout.ctp:357
+#: View/Orders/payment.ctp:172
+#: View/StripeWebhook/payment_method.ctp:154
+#: View/StripeWebhook/update_subscription.ctp:155
+msgid "Billing Zip Code"
+msgstr "CEP para cobrança"
+
+#: View/Orders/checkout.ctp:394
+#: View/Orders/payment.ctp:209
+#: View/Orders/payment_old.ctp:203
+#: View_backup/Orders/checkout.ctp:392
+#: View_backup/Orders/payment.ctp:203
+msgid "Back to Shipping Address"
+msgstr "Voltar para o endereço de entrega"
+
+#: View/Orders/checkout.ctp:399
+#: View/Orders/payment.ctp:214
+#: View/Orders/payment_old.ctp:208
+#: View_backup/Orders/checkout.ctp:397
+#: View_backup/Orders/payment.ctp:208
+msgid "Back to Shopping Cart"
+msgstr "Voltar ao carrinho de compras"
+
+#: View/Orders/checkout.ctp:406
+#: View/Orders/payment.ctp:221
+#: View/Orders/payment_old.ctp:215
+#: View_backup/Orders/checkout.ctp:404
+#: View_backup/Orders/payment.ctp:215
+msgid "Final Review"
+msgstr "Revisão final"
+
+#: View/Orders/checkout.ctp:455
+msgid "Billing to"
+msgstr "Faturamento para"
+
+#: View/Orders/checkout.ctp:468
+msgid "Shipping to"
+msgstr "Enviando para"
+
+#: View/Orders/checkout.ctp:489
+msgid "Payment Card"
+msgstr "Cartão de pagamento"
+
+#: View/Orders/checkout.ctp:563
+msgid "Total on this list"
+msgstr "Total nesta lista"
+
+#: View/Orders/checkout.ctp:578
+msgid "Hey!"
+msgstr "Ei!"
+
+#: View/Orders/checkout.ctp:579
+msgid "It's time to relax!. We will ship the list above directly to your school."
+msgstr "É hora de relaxar! Nós enviaremos a lista acima diretamente para sua escola."
+
+#: View/Orders/checkout.ctp:598
+msgid "Shipped With"
+msgstr "Enviado com"
+
+#: View/Orders/checkout.ctp:654
+msgid "Heads up!"
+msgstr "Atenção!"
+
+#: View/Orders/checkout.ctp:655
+msgid "Products above will be shipped to an address specified by you in the checkout"
+msgstr "Os produtos acima serão enviados para um endereço especificado por você no checkout"
+
+#: View/Orders/checkout.ctp:669
+#: View/Orders/review.ctp:588
+#: View_backup/Orders/checkout.ctp:667
+#: View_backup/Orders/review.ctp:555
+msgid "Back to payment method"
+msgstr "Voltar para o método de pagamento"
+
+#: View/Orders/checkout.ctp:703
+#: View/Orders/succeed.ctp:50
+msgid "Great!"
+msgstr "Ótimo!"
+
+#: View/Orders/checkout.ctp:704
+#: View/Orders/succeed.ctp:51
+#: View_backup/Orders/checkout.ctp:702
+#: View_backup/Orders/succeed.ctp:51
+msgid "Your transaction has been approved!"
+msgstr "Sua transação foi aprovada!"
+
+#: View/Orders/checkout.ctp:711
+#: View/Orders/succeed.ctp:58
+#: View_backup/Orders/checkout.ctp:709
+#: View_backup/Orders/succeed.ctp:58
+msgid "Your order is #"
+msgstr "Seu pedido é #"
+
+#: View/Orders/checkout.ctp:713
+#: View_backup/Orders/checkout.ctp:711
+#: View_backup/Orders/succeed.ctp:60
+msgid "We sent you an email with the details of your purchase."
+msgstr "Enviamos um e-mail com os detalhes da sua compra."
+
+#: View/Orders/checkout.ctp:714
+#: View_backup/Orders/checkout.ctp:712
+#: View_backup/Orders/succeed.ctp:61
+msgid "You can check the status of your order"
+msgstr "Você pode verificar o status do seu pedido"
+
+#: View/Orders/checkout.ctp:714
+#: View/Orders/succeed.ctp:60
+#: View_backup/Orders/checkout.ctp:712
+#: View_backup/Orders/succeed.ctp:61
+msgid "or in your profile menu in the Orders section"
+msgstr "ou no menu do seu perfil na seção Pedidos"
+
+#: View/Orders/checkout.ctp:715
+#: View_backup/Orders/checkout.ctp:713
+#: View_backup/Orders/succeed.ctp:62
+msgid "Thank you for buying with Zolut"
+msgstr "Obrigado por comprar com o Zolut"
+
+#: View/Orders/checkout.ctp:716
+#: View/Orders/succeed.ctp:67
+#: View_backup/Orders/checkout.ctp:714
+#: View_backup/Orders/succeed.ctp:63
+msgid "Have a great day!"
+msgstr "Tenha um ótimo dia!"
+
+#: View/Orders/checkout.ctp:720
+#: View/Orders/succeed.ctp:71
+#: View_backup/Orders/checkout.ctp:718
+#: View_backup/Orders/succeed.ctp:67
+msgid "Go Home"
+msgstr "Ir para casa"
+
+#: View/Orders/checkout.ctp:724
+#: View/Orders/succeed.ctp:75
+#: View_backup/Orders/checkout.ctp:722
+#: View_backup/Orders/succeed.ctp:71
+msgid "Buy some more"
+msgstr "Compre um pouco mais"
+
+#: View/Orders/checkout.ctp:748
+#: View/Orders/rejected.ctp:51
+msgid "Error on payment"
+msgstr "Erro no pagamento"
+
+#: View/Orders/checkout.ctp:749
+#: View/Orders/rejected.ctp:52
+#: View_backup/Orders/checkout.ctp:747
+#: View_backup/Orders/rejected.ctp:52
+msgid "We couldn't process your transaction due to the following reason"
+msgstr "Não foi possível processar sua transação devido ao seguinte motivo"
+
+#: View/Orders/checkout.ctp:751
+#: View/Orders/rejected.ctp:54
+#: View_backup/Orders/checkout.ctp:749
+#: View_backup/Orders/rejected.ctp:54
+msgid "Please verify all your payment information and try again"
+msgstr "Confirme todas as suas informações de pagamento e tente novamente"
+
+#: View/Orders/checkout.ctp:776
+#: View/Orders/payment.ctp:240
+#: View/Orders/rejected.ctp:88
+#: View/Orders/review.ctp:659
+#: View/Orders/shipping.ctp:220
+#: View/Orders/succeed.ctp:97
+#: View/ShoppingCarts/index.ctp:620
+#: View/ShoppingCarts/index_cookie.ctp:540
+#: View_backup/Orders/review.ctp:626
+#: View_backup/ShoppingCarts/index.ctp:544
+#: View_backup/ShoppingCarts/index_cookie.ctp:529
+msgid "Shipping and additional costs are calculated based on the values you have entered."
+msgstr "Envio e custos adicionais são calculados com base nos valores que você inseriu."
+
+#: View/Orders/checkout.ctp:799;810
+#: View/Orders/shipping.ctp:237;241
+#: View/ShoppingCarts/index.ctp:626;630
+#: View/ShoppingCarts/index_cookie.ctp:547;551
+#: View_backup/Orders/checkout.ctp:797;808
+#: View_backup/Orders/shipping.ctp:235;239
+#: View_backup/ShoppingCarts/index.ctp:550;554
+#: View_backup/ShoppingCarts/index_cookie.ctp:536;540
+msgid "Yet to be calculated"
+msgstr "Ainda a ser calculado"
+
+#: View/Orders/checkout.ctp:839
+#: View/Orders/review.ctp:707
+#: View/SchoolOrders/school_review.ctp:160
+#: View_backup/Orders/checkout.ctp:837
+#: View_backup/Orders/review.ctp:662
+#: View_backup/SchoolOrders/school_review.ctp:160
+msgid "Place Order"
+msgstr "Faça a encomenda"
+
+#: View/Orders/index.ctp:37
+#: View/SchoolOrders/school_view.ctp:18;20
+#: View/SchoolSales/school_view.ctp:20;22
+#: View_backup/SchoolOrders/school_view.ctp:18;20
+#: View_backup/SchoolSales/school_view.ctp:20;22
+msgid "Order #"
+msgstr "Ordem #"
+
+#: View/Orders/index.ctp:38
+#: View/Pdf/agreement.ctp:17
+#: View/Pdf/school_warehouse_order.ctp:9
+#: View/StripeWebhook/my_subscription_details.ctp:109
+msgid "Date"
+msgstr "Encontro"
+
+#: View/Orders/index.ctp:39
+msgid "Total Paid"
+msgstr "Total Pago"
+
+#: View/Orders/index.ctp:40
+#: View/Products/admin_view.ctp:616;690;822
+#: View/SchoolOrders/admin_view.ctp:228
+#: View/SchoolOrders/school_view.ctp:50
+#: View/StripeWebhook/my_subscriptions.ctp:40
+#: View_backup/Orders/admin_view.ctp:218
+#: View_backup/SchoolOrders/admin_view.ctp:228
+#: View_backup/SchoolOrders/school_view.ctp:50
+msgid "Status"
+msgstr "Status"
+
+#: View/Orders/index.ctp:41
+msgid "View"
+msgstr "Visão"
+
+#: View/Orders/index.ctp:51
+#: View/SchoolOrders/school_index.ctp:102
+#: View/SchoolSales/school_index.ctp:105
+#: View_backup/Orders/index.ctp:51
+#: View_backup/SchoolOrders/school_index.ctp:102
+#: View_backup/SchoolSales/school_index.ctp:105
+msgid "View details"
+msgstr "Ver detalhes"
+
+#: View/Orders/index.ctp:63
+#: View_backup/Orders/index.ctp:63
+msgid "You don't have orders yet"
+msgstr "Você ainda não tem pedidos"
+
+#: View/Orders/payment.ctp:265
+#: View/Orders/payment_old.ctp:259
+#: View/Orders/review.ctp:684
+#: View/Orders/succeed.ctp:122
+#: View/Orders/view.ctp:207
+msgid "Shipping Discount"
+msgstr "Desconto de envio"
+
+#: View/Orders/payment.ctp:271
+#: View/Orders/review.ctp:690
+#: View/Orders/succeed.ctp:128
+msgid "Amount Payment Code Used"
+msgstr "Código de pagamento do valor usado"
+
+#: View/Orders/review.ctp:131
+msgid "Tota"
+msgstr "Tota"
+
+#: View/Orders/review.ctp:135;389
+#: View/ShoppingCarts/index.ctp:214;401
+msgid "Main list"
+msgstr "Lista principal"
+
+#: View/Orders/review.ctp:154
+#: View/ShoppingCarts/index.ctp:292
+#: View/ShoppingCarts/index_cookie.ctp:240
+msgid "Optional Products"
+msgstr "Produtos Opcionais"
+
+#: View/Orders/review.ctp:210;316;445;562
+#: View/SchoolOrders/school_view.ctp:141
+#: View_backup/Orders/review.ctp:193;289;412;529
+#: View_backup/SchoolOrders/school_view.ctp:141
+msgid "Shipping Rate"
+msgstr "Taxa de envio"
+
+#: View/Orders/review.ctp:215;321
+msgid "Shipping Discount "
+msgstr "Desconto de envio"
+
+#: View/Orders/review.ctp:234;246;336;458;575
+#: View/Schools/view.ctp:27;69;81
+#: View/ShoppingCarts/index.ctp:156
+#: View_backup/Orders/review.ctp:207;219;303;425;542
+#: View_backup/Schools/view.ctp:27;69;81
+msgid "Important!"
+msgstr "Importante!"
+
+#: View/Orders/review.ctp:235;459
+#: View_backup/Orders/review.ctp:208;426
+msgid "This school list will be shipped to the address specified by you earlier."
+msgstr "Esta lista da escola será enviada para o endereço especificado por você anteriormente."
+
+#: View/Orders/review.ctp:247
+#: View/Schools/view.ctp:82
+#: View_backup/Orders/review.ctp:220
+#: View_backup/Schools/view.ctp:82
+msgid "This school list will be shipped directly to the school."
+msgstr "Esta lista da escola será enviada diretamente para a escola."
+
+#: View/Orders/review.ctp:270;375;492
+#: View_backup/Orders/review.ctp:243;342;459
+msgid "City & State"
+msgstr "Cidade-Estado"
+
+#: View/Orders/review.ctp:337
+#: View_backup/Orders/review.ctp:304
+msgid "Products above will be shipped to the address specified by you earlier."
+msgstr "Os produtos acima serão enviados para o endereço especificado por você anteriormente."
+
+#: View/Orders/review.ctp:505
+msgid "Bundle's products"
+msgstr "Produtos da Bundle"
+
+#: View/Orders/review.ctp:576
+#: View_backup/Orders/review.ctp:543
+msgid "This bundle will be shipped to the address specified by you earlier."
+msgstr "Este pacote será enviado para o endereço especificado por você anteriormente."
+
+#: View/Orders/review.ctp:614
+#: View/Orders/share_order.ctp:125
+#: View/Orders/view.ctp:143
+#: View_backup/Orders/review.ctp:581
+#: View_backup/Orders/share_order.ctp:125
+#: View_backup/Orders/view.ctp:124
+msgid "Billing Information"
+msgstr "Informações de pagamento"
+
+#: View/Orders/review.ctp:632
+#: View/Orders/share_order.ctp:142
+#: View/Orders/view.ctp:160
+#: View_backup/Orders/review.ctp:599
+#: View_backup/Orders/share_order.ctp:142
+#: View_backup/Orders/view.ctp:141
+msgid "State & City"
+msgstr "Cidade-estado"
+
+#: View/Orders/share_order.ctp:158
+#: View/Orders/view.ctp:176
+msgid "Ending in"
+msgstr "Acabando"
+
+#: View/Orders/shipping.ctp:245
+msgid "Payment Code Amount"
+msgstr "Quantia do código de pagamento"
+
+#: View/Orders/shipping.ctp:270
+msgid "Discount code"
+msgstr "Código de desconto"
+
+#: View/Orders/shipping.ctp:272
+#: View/ShoppingCarts/index.ctp:742;779
+#: View/ShoppingCarts/index_cookie.ctp:592
+#: View_backup/ShoppingCarts/index.ctp:603
+msgid "If you have a discount code, please enter it in the box below."
+msgstr "Se você tiver um código de desconto, insira-o na caixa abaixo."
+
+#: View/Orders/shipping.ctp:278
+#: View/ShoppingCarts/index.ctp:642;679
+#: View_backup/ShoppingCarts/index.ctp:560
+msgid "discount in"
+msgstr "desconto em"
+
+#: View/Orders/shipping.ctp:309
+msgid "Your code goes here"
+msgstr "Seu código vai aqui"
+
+#: View/Orders/succeed.ctp:60
+msgid "We sent you an email with the details of your purchase and if you prefer to check the status of your order click "
+msgstr "Enviámos-lhe um email com os detalhes da sua compra e, se preferir verificar o estado da sua encomenda, clique em"
+
+#: View/Orders/succeed.ctp:60
+msgid "HERE"
+msgstr "AQUI"
+
+#: View/Orders/succeed.ctp:62
+msgid "For your convenience, we are offering the option of making monthly payments with your credit card from September 1st to June 31st for the purchase of your kid(s) next School Supplies seasons."
+msgstr "Para sua conveniência, oferecemos a opção de efetuar pagamentos mensais com seu cartão de crédito de 1º de setembro a 31 de junho para a compra de sua (s) criança (s) nas próximas temporadas de material escolar."
+
+#: View/Orders/succeed.ctp:63
+msgid "The sooner you sign up, the lower your monthly payment will be. No interest or fees are charged by Zolut. Signing up takes less than a minute. Click here to "
+msgstr "Quanto mais cedo você se inscrever, menor será o seu pagamento mensal. Nenhum interesse ou taxas são cobradas pela Zolut. A inscrição demora menos de um minuto. Clique aqui para"
+
+#: View/Orders/succeed.ctp:63
+msgid "SUBSCRIBE"
+msgstr "SE INSCREVER"
+
+#: View/Orders/succeed.ctp:64
+msgid "This is very convenient way for you to don't spend to much money in ones."
+msgstr "Esta é uma maneira muito conveniente para você não gastar muito dinheiro em um."
+
+#: View/Orders/succeed.ctp:66
+msgid "Thank you for buying with Zolut."
+msgstr "Obrigado por comprar com o Zolut."
+
+#: View/Orders/view.ctp:23
+#: View_backup/Orders/view.ctp:23
+msgid "Go back to orders summary"
+msgstr "Volte para o sumário de pedidos"
+
+#: View/Pages/admin_box_calculator.ctp:6;10
+#: View/Pages/admin_box_calculator_results.ctp:6;10
+#: View_backup/Pages/admin_box_calculator.ctp:6;10
+#: View_backup/Pages/admin_box_calculator_results.ctp:6;10
+msgid "Shipping rate calculator"
+msgstr "Calculadora de taxa de envio"
+
+#: View/Pages/admin_box_calculator.ctp:16
+#: View/Pages/admin_box_calculator_results.ctp:16
+#: View_backup/Pages/admin_box_calculator.ctp:16
+#: View_backup/Pages/admin_box_calculator_results.ctp:16
+msgid "Rate calculator form"
+msgstr "Formulário da calculadora de taxas"
+
+#: View/Pages/admin_box_calculator.ctp:36
+#: View/Pages/admin_box_calculator_results.ctp:40
+#: View_backup/Pages/admin_box_calculator.ctp:36
+#: View_backup/Pages/admin_box_calculator_results.ctp:40
+msgid "Sender information"
+msgstr "Informação do remetente"
+
+#: View/Pages/admin_box_calculator.ctp:93
+#: View/Pages/admin_box_calculator_results.ctp:51
+#: View_backup/Pages/admin_box_calculator.ctp:93
+#: View_backup/Pages/admin_box_calculator_results.ctp:51
+msgid "Recipient information"
+msgstr "Informações do destinatário"
+
+#: View/Pages/admin_box_calculator.ctp:145
+#: View/Products/admin_add.ctp:236
+#: View/Products/admin_edit.ctp:233
+#: View_backup/Pages/admin_box_calculator.ctp:145
+#: View_backup/Products/admin_add.ctp:236
+#: View_backup/Products/admin_edit.ctp:233
+msgid "Shipping dimensions and weight"
+msgstr "Dimensões e peso de envio"
+
+#: View/Pages/admin_box_calculator_results.ctp:36
+#: View_backup/Pages/admin_box_calculator_results.ctp:36
+msgid "Addresses"
+msgstr "Endereços"
+
+#: View/Pages/admin_box_calculator_results.ctp:62
+#: View_backup/Pages/admin_box_calculator_results.ctp:62
+msgid "Package measures"
+msgstr "Medidas pacote"
+
+#: View/Pages/admin_box_calculator_results.ctp:73
+#: View_backup/Pages/admin_box_calculator_results.ctp:73
+msgid "Depth"
+msgstr "Profundidade"
+
+#: View/Pages/admin_box_calculator_results.ctp:87
+#: View_backup/Pages/admin_box_calculator_results.ctp:87
+msgid "Results"
+msgstr "Resultados"
+
+#: View/Pages/admin_box_calculator_results.ctp:94
+#: View_backup/Pages/admin_box_calculator_results.ctp:94
+msgid "Best rate"
+msgstr "Melhor taxa"
+
+#: View/Pages/admin_box_calculator_results.ctp:125
+#: View_backup/Pages/admin_box_calculator_results.ctp:125
+msgid "All rates"
+msgstr "Todas as tarifas"
+
+#: View/Pages/contact.ctp:22
+#: View_backup/Pages/contact.ctp:22
+msgid "What can we do for you?"
+msgstr "O que podemos fazer por você?"
+
+#: View/Pages/contact.ctp:49
+msgid "Confirm Email"
+msgstr "confirmar e-mail"
+
+#: View/Pages/contact.ctp:57
+msgid "School (optional)"
+msgstr "Escola (opcional)"
+
+#: View/Pages/contact.ctp:83
+#: View_backup/Pages/contact.ctp:83
+msgid "You can also contact us by electronic support at"
+msgstr "Você também pode entrar em contato conosco pelo suporte eletrônico em"
+
+#: View/Pages/contact.ctp:88
+#: View_backup/Pages/contact.ctp:88
+msgid "Send Message"
+msgstr "Enviar mensagem"
+
+#: View/Pages/contact.ctp:102
+#: View_backup/Pages/contact.ctp:102
+msgid "Looking for social media?"
+msgstr "Procurando por mídias sociais?"
+
+#: View/Pages/school_index.ctp:7
+#: View_backup/Pages/school_index.ctp:7
+msgid "My Schools"
+msgstr "Minhas escolas"
+
+#: View/Pages/school_index.ctp:45
+#: View_backup/Pages/school_index.ctp:47
+msgid "You don't have a school associated to manage"
+msgstr "Você não tem uma escola associada para gerenciar"
+
+#: View/Pages/school_thanks_message.ctp:22
+#: View/Pages/thanks_message.ctp:23
+msgid "Go home!"
+msgstr "Ir para casa!"
+
+#: View/Pdf/agreement.ctp:26
+msgid "Represent School"
+msgstr "Represente a escola"
+
+#: View/Pdf/agreement.ctp:28
+msgid "Thank you for choosing ZOLUT as the provider of your School Supplies services needs. I am confident that you will be very satisfied with the services that we offer."
+msgstr "Obrigado por escolher a ZOLUT como provedora de suas necessidades de serviços de material escolar. Estou confiante de que ficará muito satisfeito com os serviços que oferecemos."
+
+#: View/Pdf/agreement.ctp:30
+msgid "The terms below represent the base of our agreement. By signing, both parts are commited to such terms. The agreement could be terminated if one of the parts is not satisfied with what we have agreed."
+msgstr "Os termos abaixo representam a base do nosso contrato. Ao assinar, ambas as partes estão comprometidas com tais termos. O acordo pode ser rescindido se uma das partes não estiver satisfeita com o que concordamos."
+
+#: View/Pdf/agreement.ctp:32
+msgid "If you have any questions, please don’t hesitate to contact me at any time. It will be a pleasure for me to assist you."
+msgstr "Se você tiver alguma dúvida, não hesite em entrar em contato comigo a qualquer momento. Será um prazer para mim ajudá-lo."
+
+#: View/Pdf/agreement.ctp:34
+msgid "Again, thank you for choosing ZOLUT !!!"
+msgstr "Mais uma vez, obrigado por escolher o ZOLUT !!!"
+
+#: View/Pdf/agreement.ctp:56
+msgid "according to the following terms"
+msgstr "de acordo com os seguintes termos"
+
+#: View/Pdf/school_warehouse_order.ctp:48
+msgid "Qty"
+msgstr "Qtd"
+
+#: View/Pdf/school_warehouse_order.ctp:51
+msgid "Retail Price"
+msgstr "Preço de varejo"
+
+#: View/Pdf/school_warehouse_order.ctp:75
+msgid "Estimated total"
+msgstr "Total Estimado"
+
+#: View/ProductAccessories/admin_index.ctp:124
+#: View/ProductGroups/admin_index.ctp:128
+#: View_backup/ProductAccessories/admin_index.ctp:124
+#: View_backup/ProductGroups/admin_index.ctp:128
+msgid "Are you sure you want to delete %s?"
+msgstr "Tem certeza de que deseja excluir% s?"
+
+#: View/ProductAccessories/admin_view.ctp:83
+#: View_backup/ProductAccessories/admin_view.ctp:83
+msgid "Are you sure you want to delete %s from the accessory?"
+msgstr "Tem certeza de que deseja excluir% s do acessório?"
+
+#: View/ProductEstimates/admin_edit.ctp:30
+#: View/SchoolListEstimates/admin_edit.ctp:38
+#: View_backup/SchoolListEstimates/admin_edit.ctp:38
+msgid "Edit %s estimate"
+msgstr "Editar estimativa de% s"
+
+#: View/ProductEstimates/admin_estimates.ctp:85
+#: View/SchoolListEstimates/admin_estimates.ctp:93
+#: View/SchoolListEstimates/admin_index.ctp:161
+#: View_backup/SchoolListEstimates/admin_index.ctp:149
+msgid "Are you sure you want to delete this estimate"
+msgstr "Tem certeza de que deseja excluir esta estimativa?"
+
+#: View/ProductEstimates/admin_estimates.ctp:152
+msgid "Go"
+msgstr "Vai"
+
+#: View/ProductGroups/admin_view.ctp:80
+#: View/Purchases/admin_view.ctp:86
+#: View_backup/ProductGroups/admin_view.ctp:80
+#: View_backup/Purchases/admin_view.ctp:86
+msgid "Are you sure you want to delete %s from the group?"
+msgstr "Tem certeza de que deseja excluir% s do grupo?"
+
+#: View/Products/admin_add.ctp:161
+#: View/Products/admin_edit.ctp:197
+#: View_backup/Products/admin_add.ctp:161
+#: View_backup/Products/admin_edit.ctp:197
+msgid "Change selection"
+msgstr "Alterar seleção"
+
+#: View/Products/admin_add.ctp:207
+#: View_backup/Products/admin_add.ctp:207
+msgid "Attributes"
+msgstr "Atributos"
+
+#: View/Products/admin_add.ctp:359
+#: View/Products/admin_edit.ctp:356
+#: View_backup/Products/admin_add.ctp:359
+#: View_backup/Products/admin_edit.ctp:356
+msgid "<u><b>More Stuff Product: </b></u> Check this box if this product will be available in the more stuff section. <br><br> <u><b>School lists in more stuff: </b></u> Check this box if this product will be available for generic and customer customized lists in the more stuff section. <br><br> <u><b>Bundles in more stuff: </b></u> Check this box if this product will be available for bundles in the more stuff section. <br><br> <u><b>School list product: </b></u> Check this box if this product will be available for School Lists which are specific for each of the registered schools."
+msgstr "<u> <b> Mais produtos de material: </ b> </ u> Marque esta caixa se este produto estiver disponível na seção de materiais. <br> <br> <u> <b> Listas de escolas em mais coisas: </ b> </ u> Marque esta caixa se este produto estiver disponível para listas genéricas e personalizadas do cliente na seção mais coisas. <br> <br> <u> <b> Pacotes em mais coisas: </ b> </ u> Marque esta caixa se este produto estiver disponível para pacotes na seção mais coisas. <br> <br> <u> <b> Produto da lista escolar: </ b> </ u> Marque esta caixa se este produto estará disponível para as Listas de Escola específicas para cada uma das escolas registradas."
+
+#: View/Products/admin_preview.ctp:21
+#: View_backup/Products/admin_preview.ctp:21
+msgid "Back to product summary"
+msgstr "Voltar ao resumo do produto"
+
+#: View/Products/admin_preview.ctp:130
+#: View/Products/view.ctp:149
+#: View/Products/view_resume.ctp:84
+#: View_backup/Products/admin_preview.ctp:130
+#: View_backup/Products/view.ctp:149
+#: View_backup/Products/view_resume.ctp:84
+msgid "We also have it in"
+msgstr "Nós também temos isso em"
+
+#: View/Products/admin_preview.ctp:158
+#: View/Products/school_view.ctp:136
+#: View/Products/view.ctp:198
+#: View/Products/view_resume.ctp:133
+#: View_backup/Products/admin_preview.ctp:158
+#: View_backup/Products/school_view.ctp:136
+#: View_backup/Products/view.ctp:198
+#: View_backup/Products/view_resume.ctp:133
+msgid "Details"
+msgstr "Detalhes"
+
+#: View/Products/admin_preview.ctp:173
+#: View/Products/school_view.ctp:150
+#: View/Products/view.ctp:213
+#: View/Products/view_resume.ctp:148
+#: View_backup/Products/admin_preview.ctp:173
+#: View_backup/Products/school_view.ctp:150
+#: View_backup/Products/view.ctp:213
+#: View_backup/Products/view_resume.ctp:148
+msgid "Dimensions"
+msgstr "Dimensões"
+
+#: View/Products/admin_preview.ctp:191
+#: View/Products/school_view.ctp:168
+#: View/Products/view.ctp:231
+#: View/Products/view_resume.ctp:166
+#: View_backup/Products/admin_preview.ctp:191
+#: View_backup/Products/school_view.ctp:168
+#: View_backup/Products/view.ctp:231
+#: View_backup/Products/view_resume.ctp:166
+msgid "Return policy"
+msgstr "Política de devolução"
+
+#: View/Products/admin_preview.ctp:197
+#: View/Products/school_view.ctp:174
+#: View/Products/view.ctp:237
+#: View/Products/view_resume.ctp:172
+#: View_backup/Products/admin_preview.ctp:197
+#: View_backup/Products/school_view.ctp:174
+#: View_backup/Products/view.ctp:237
+#: View_backup/Products/view_resume.ctp:172
+msgid "Cancellation policy"
+msgstr "Política de cancelamento"
+
+#: View/Products/admin_preview.ctp:203
+#: View/Products/school_view.ctp:180
+#: View/Products/view.ctp:243
+#: View/Products/view_resume.ctp:178
+#: View_backup/Products/admin_preview.ctp:203
+#: View_backup/Products/school_view.ctp:180
+#: View_backup/Products/view.ctp:243
+#: View_backup/Products/view_resume.ctp:178
+msgid "Delivery Time"
+msgstr "Tempo de entrega"
+
+#: View/Products/admin_view.ctp:197
+#: View_backup/Products/admin_view.ctp:188
+msgid "Preview"
+msgstr "Visualizar"
+
+#: View/Products/admin_view.ctp:476
+#: View_backup/Products/admin_view.ctp:457
+msgid "Are you sure you want to delete %s from this product stock"
+msgstr "Tem certeza de que deseja excluir% s deste produto?"
+
+#: View/Products/admin_view.ctp:498
+#: View_backup/Products/admin_view.ctp:479
+msgid "Secondary categories"
+msgstr "Categorias secundárias"
+
+#: View/Products/admin_view.ctp:518
+#: View_backup/Products/admin_view.ctp:499
+msgid "Main category"
+msgstr "Categoria principal"
+
+#: View/Products/admin_view.ctp:519
+#: View_backup/Products/admin_view.ctp:500
+msgid "Subcategory"
+msgstr "Subcategoria"
+
+#: View/Products/admin_view.ctp:538
+#: View_backup/Products/admin_view.ctp:519
+msgid "Are you sure you want to remove %s from this category?"
+msgstr "Tem certeza de que deseja remover% s desta categoria?"
+
+#: View/Products/admin_view.ctp:561
+msgid "Product In"
+msgstr "Produto em"
+
+#: View/Products/admin_view.ctp:584
+msgid "Groups"
+msgstr "Grupos"
+
+#: View/Products/admin_view.ctp:611;687;817
+msgid "School List / Grade"
+msgstr "Lista de Escolas / Grau"
+
+#: View/Products/admin_view.ctp:614
+msgid "Suggested"
+msgstr "Sugerido"
+
+#: View/Products/admin_view.ctp:663;725;905
+msgid "Are you sure you want to delete this product for the lists %s"
+msgstr "Tem certeza de que deseja excluir este produto das listas% s"
+
+#: View/Products/admin_view.ctp:748
+msgid "Product history"
+msgstr "História do produto"
+
+#: View/Products/admin_view.ctp:756
+msgid "Supplier"
+msgstr "Fornecedor"
+
+#: View/Products/admin_view.ctp:758
+msgid "Day"
+msgstr "Dia"
+
+#: View/Products/admin_view.ctp:759
+msgid "Time"
+msgstr "Tempo"
+
+#: View/Products/admin_view.ctp:761
+msgid "User"
+msgstr "Do utilizador"
+
+#: View/Products/admin_view.ctp:762
+msgid "Reason"
+msgstr "Razão"
+
+#: View/Products/admin_view.ctp:791
+msgid "Are you sure you want to delete this history"
+msgstr "Tem certeza de que deseja excluir este histórico?"
+
+#: View/Products/admin_view.ctp:811
+msgid "Product located"
+msgstr "Produto localizado"
+
+#: View/Products/admin_view.ctp:819
+#: View/SchoolListEstimates/admin_edit.ctp:121
+#: View_backup/SchoolListEstimates/admin_edit.ctp:84
+msgid "Grade"
+msgstr "Grau"
+
+#: View/Products/admin_view.ctp:820
+msgid "Optional Product Grades"
+msgstr "Grades opcionais de produtos"
+
+#: View/Products/category.ctp:25
+#: View/Products/index.ctp:23
+#: View/Products/school_category.ctp:68
+#: View/Products/school_index.ctp:63
+#: View_backup/Products/category.ctp:25
+#: View_backup/Products/index.ctp:23
+#: View_backup/Products/school_category.ctp:68
+#: View_backup/Products/school_index.ctp:63
+msgid "Categories"
+msgstr "Categorias"
+
+#: View/Products/category.ctp:134
+#: View/Products/index.ctp:61
+#: View_backup/Products/category.ctp:134
+#: View_backup/Products/index.ctp:61
+msgid "School Lists"
+msgstr "Listas escolares"
+
+#: View/Products/category.ctp:247
+#: View/Products/index.ctp:177
+#: View_backup/Products/category.ctp:247
+#: View_backup/Products/index.ctp:177
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: View/Products/category.ctp:250
+#: View/Products/index.ctp:180
+#: View_backup/Products/category.ctp:250
+#: View_backup/Products/index.ctp:180
+msgid "Name A-Z"
+msgstr "Nome A-Z"
+
+#: View/Products/category.ctp:251
+#: View/Products/index.ctp:181
+#: View_backup/Products/category.ctp:251
+#: View_backup/Products/index.ctp:181
+msgid "Name Z-A"
+msgstr "Nome Z-A"
+
+#: View/Products/category.ctp:252
+#: View/Products/index.ctp:182
+#: View_backup/Products/category.ctp:252
+#: View_backup/Products/index.ctp:182
+msgid "Price High to Low"
+msgstr "Preço alto para baixo"
+
+#: View/Products/category.ctp:253
+#: View/Products/index.ctp:183
+#: View_backup/Products/category.ctp:253
+#: View_backup/Products/index.ctp:183
+msgid "Price Low to High"
+msgstr "Preço baixo para alto"
+
+#: View/Products/category.ctp:349
+#: View/Products/index.ctp:283
+#: View_backup/Products/category.ctp:349
+#: View_backup/Products/index.ctp:283
+msgid "It seems that your search didn't return any results :("
+msgstr "Parece que sua pesquisa não retornou nenhum resultado :("
+
+#: View/Products/index.ctp:97
+#: View_backup/Products/index.ctp:97
+msgid "Bundles containing"
+msgstr "Pacotes contendo"
+
+#: View/Products/view.ctp:98
+#: View/Products/view_resume.ctp:55
+#: View_backup/Products/view.ctp:98
+#: View_backup/Products/view_resume.ctp:55
+msgid "Price to be set"
+msgstr "Preço a ser definido"
+
+#: View/Products/view.ctp:137
+#: View/Products/view_resume.ctp:72
+#: View/SchoolGrades/view.ctp:53
+#: View_backup/Products/view.ctp:137
+#: View_backup/Products/view_resume.ctp:72
+#: View_backup/SchoolGrades/view.ctp:53
+msgid "Save for later"
+msgstr "Guardar para depois"
+
+#: View/Products/view.ctp:178
+#: View/Products/view_resume.ctp:113
+#: View_backup/Products/view.ctp:178
+#: View_backup/Products/view_resume.ctp:113
+msgid "Accessories for this product"
+msgstr "Acessórios para este produto"
+
+#: View/PurchaseItems/admin_add.ctp:128
+#: View_backup/PurchaseItems/admin_add.ctp:128
+msgid "Are you sure you want to delete %s from this purchase?"
+msgstr "Tem certeza de que deseja excluir% s desta compra?"
+
+#: View/Purchases/admin_index.ctp:39
+#: View/SalesOnOtherWebsites/admin_index.ctp:39
+msgid "Generate Report"
+msgstr "Gerar relatório"
+
+#: View/SalesOnOtherWebsites/admin_index.ctp:22
+msgid "Off Line Sales"
+msgstr "Vendas fora de linha"
+
+#: View/SchoolGrades/admin_add.ctp:112
+#: View_backup/SchoolGrades/admin_add.ctp:112
+msgid "If this grade has many sections for this school like \"English/Portuguese or English/Spanish\" or similar, then please leave this field unchecked , on the other hand, if this grade only has one section then please leave this field checked"
+msgstr "Se este grau tem muitas seções para esta escola como \"Inglês / Português ou Inglês / Espanhol\" ou similar, então por favor deixe este campo desmarcado, por outro lado, se este grau tiver apenas uma seção então por favor deixe este campo marcado"
+
+#: View/SchoolGrades/admin_add.ctp:133
+#: View/SchoolGrades/admin_edit.ctp:101
+#: View_backup/SchoolGrades/admin_add.ctp:133
+#: View_backup/SchoolGrades/admin_edit.ctp:101
+msgid "Check this box only if you want this Grade/List to be customizable, this way if the List has \"More options\" the customer will be able to select which products they want."
+msgstr "Marque esta caixa somente se você quiser que essa Nota / Lista seja personalizável, assim, se a Lista tiver \"Mais opções\", o cliente poderá selecionar quais produtos deseja."
+
+#: View/SchoolGrades/admin_add.ctp:154
+#: View/SchoolGrades/admin_edit.ctp:122
+msgid "Check this box only if you want this Grade/List to be closed, this way the customer can only see the content."
+msgstr "Marque esta caixa somente se você quiser que esta Nota / Lista seja fechada, dessa forma o cliente só poderá ver o conteúdo."
+
+#: View/SchoolGrades/admin_add.ctp:187
+#: View/SchoolGrades/admin_edit.ctp:155
+#: View/Schools/admin_add.ctp:231
+#: View/Schools/admin_edit.ctp:231
+#: View_backup/SchoolGrades/admin_add.ctp:146
+#: View_backup/SchoolGrades/admin_edit.ctp:114
+#: View_backup/Schools/admin_add.ctp:233
+#: View_backup/Schools/admin_edit.ctp:233
+msgid "Date Availability"
+msgstr "Data de Disponibilidade"
+
+#: View/SchoolGrades/admin_add.ctp:197
+#: View/SchoolGrades/admin_edit.ctp:165
+#: View/Schools/admin_add.ctp:241
+#: View/Schools/admin_edit.ctp:241
+#: View_backup/SchoolGrades/admin_add.ctp:156
+#: View_backup/SchoolGrades/admin_edit.ctp:124
+#: View_backup/Schools/admin_add.ctp:243
+#: View_backup/Schools/admin_edit.ctp:243
+msgid "Allow School Lists from this school to be available for purchase ONLY between the following dates"
+msgstr "Permitir que as Listas de Escola desta escola estejam disponíveis para compra APENAS entre as seguintes datas"
+
+#: View/SchoolGrades/admin_add.ctp:205
+#: View/SchoolGrades/admin_edit.ctp:173
+#: View/Schools/admin_add.ctp:249
+#: View/Schools/admin_edit.ctp:250
+#: View_backup/SchoolGrades/admin_add.ctp:164
+#: View_backup/SchoolGrades/admin_edit.ctp:132
+#: View_backup/Schools/admin_add.ctp:251
+#: View_backup/Schools/admin_edit.ctp:252
+msgid "School Lists Available From:"
+msgstr "Listas de escolas disponíveis a partir de:"
+
+#: View/SchoolGrades/admin_add.ctp:225
+#: View/SchoolGrades/admin_edit.ctp:193
+#: View/Schools/admin_add.ctp:269
+#: View/Schools/admin_edit.ctp:270
+#: View_backup/SchoolGrades/admin_add.ctp:184
+#: View_backup/SchoolGrades/admin_edit.ctp:152
+#: View_backup/Schools/admin_add.ctp:271
+#: View_backup/Schools/admin_edit.ctp:272
+msgid "School Lists Available To:"
+msgstr "Listas de escolas disponíveis para:"
+
+#: View/SchoolGrades/admin_add.ctp:246
+#: View/SchoolGrades/admin_edit.ctp:213
+msgid "Percentage Discount from the 2nd List (%)"
+msgstr "Desconto percentual da 2ª lista (%)"
+
+#: View/SchoolGrades/view.ctp:27
+#: View_backup/SchoolGrades/view.ctp:27
+msgid "It's time to relax!. We will ship your list directly to your school."
+msgstr "É hora de relaxar! Nós enviaremos sua lista diretamente para sua escola."
+
+#: View/SchoolGrades/view.ctp:162
+#: View/Schools/view.ctp:271
+#: View_backup/SchoolGrades/view.ctp:162
+#: View_backup/Schools/view.ctp:209
+msgid "Tell us about your kid..."
+msgstr "Conte-nos sobre o seu filho ..."
+
+#: View/SchoolGrades/view.ctp:174
+#: View/Schools/view.ctp:283
+#: View_backup/SchoolGrades/view.ctp:174
+#: View_backup/Schools/view.ctp:221
+msgid "Your kid's last name"
+msgstr "Sobrenome do seu filho"
+
+#: View/SchoolListEstimates/admin_edit.ctp:117
+#: View_backup/SchoolListEstimates/admin_edit.ctp:80
+msgid "Warehouse name"
+msgstr "Nome do armazém"
+
+#: View/SchoolListEstimates/pdf/admin_view.ctp:15
+#: View_backup/SchoolListEstimates/pdf/admin_view.ctp:15
+msgid "Grade:"
+msgstr "Grau:"
+
+#: View/SchoolListEstimates/pdf/admin_view.ctp:23
+#: View_backup/SchoolListEstimates/pdf/admin_view.ctp:23
+msgid "Date:"
+msgstr "Encontro:"
+
+#: View/SchoolLists/admin_view.ctp:71
+#: View_backup/SchoolLists/admin_view.ctp:71
+msgid "Are you sure you want to delete all the groups of this list?"
+msgstr "Tem certeza de que deseja excluir todos os grupos dessa lista?"
+
+#: View/SchoolLists/admin_view.ctp:235
+#: View_backup/SchoolLists/admin_view.ctp:215
+msgid "Are you sure you want to delete %s from Optional Products"
+msgstr "Tem certeza de que deseja excluir% s de produtos opcionais?"
+
+#: View/SchoolOrders/admin_view.ctp:174
+#: View_backup/Orders/admin_view.ctp:164
+#: View_backup/SchoolOrders/admin_view.ctp:174
+msgid "Shipping Street 1"
+msgstr "Rua de envio 1"
+
+#: View/SchoolOrders/admin_view.ctp:178
+#: View_backup/Orders/admin_view.ctp:168
+#: View_backup/SchoolOrders/admin_view.ctp:178
+msgid "Shipping Street 2"
+msgstr "Rua de envio 2"
+
+#: View/SchoolOrders/admin_view.ctp:182
+#: View_backup/Orders/admin_view.ctp:172
+#: View_backup/SchoolOrders/admin_view.ctp:182
+msgid "Shipping Phone"
+msgstr "Telefone de envio"
+
+#: View/SchoolOrders/admin_view.ctp:186
+#: View_backup/Orders/admin_view.ctp:176
+#: View_backup/SchoolOrders/admin_view.ctp:186
+msgid "Shipping City"
+msgstr "Cidade de envio"
+
+#: View/SchoolOrders/admin_view.ctp:190
+#: View_backup/Orders/admin_view.ctp:180
+#: View_backup/SchoolOrders/admin_view.ctp:190
+msgid "Shipping State"
+msgstr "Estado de envio"
+
+#: View/SchoolOrders/admin_view.ctp:194
+#: View_backup/Orders/admin_view.ctp:184
+#: View_backup/SchoolOrders/admin_view.ctp:194
+msgid "Shipping Zip"
+msgstr "Zip de envio"
+
+#: View/SchoolOrders/admin_view.ctp:224
+#: View_backup/Orders/admin_view.ctp:214
+#: View_backup/SchoolOrders/admin_view.ctp:224
+msgid "Label is not available"
+msgstr "Etiqueta não está disponível"
+
+#: View/SchoolOrders/school_approved.ctp:26
+#: View_backup/SchoolOrders/school_approved.ctp:26
+msgid "Approved"
+msgstr "Aprovado"
+
+#: View/SchoolOrders/school_approved.ctp:34
+#: View_backup/SchoolOrders/school_approved.ctp:34
+msgid "Your order number %s has been succesfully placed, for more information please verify your order in the Orders section or just click %s"
+msgstr "Seu número de pedido% s foi colocado com sucesso, para mais informações, por favor, verifique seu pedido na seção Pedidos ou apenas clique em% s"
+
+#: View/SchoolOrders/school_checkout.ctp:46
+#: View_backup/SchoolOrders/school_checkout.ctp:46
+msgid "Your credit balance %s"
+msgstr "Seu saldo de crédito% s"
+
+#: View/SchoolOrders/school_checkout.ctp:63
+#: View_backup/SchoolOrders/school_checkout.ctp:63
+msgid "Apply my credit balance of %s to this purchase"
+msgstr "Aplicar meu saldo de crédito de% s a esta compra"
+
+#: View/SchoolOrders/school_checkout.ctp:69
+#: View_backup/SchoolOrders/school_checkout.ctp:69
+msgid "Your current credit balance is %s"
+msgstr "Seu saldo de crédito atual é% s"
+
+#: View/SchoolOrders/school_checkout.ctp:210
+#: View/SchoolOrders/school_review.ctp:87
+#: View_backup/SchoolOrders/school_checkout.ctp:210
+#: View_backup/SchoolOrders/school_review.ctp:87
+msgid "Shipping To"
+msgstr "Enviando para"
+
+#: View/SchoolOrders/school_checkout.ctp:277
+#: View_backup/SchoolOrders/school_checkout.ctp:277
+msgid "Review your order"
+msgstr "Revise seu pedido"
+
+#: View/SchoolOrders/school_index.ctp:32
+#: View/SchoolSales/school_index.ctp:35
+#: View_backup/SchoolOrders/school_index.ctp:32
+#: View_backup/SchoolSales/school_index.ctp:35
+msgid "Search by items names, SKU, username"
+msgstr "Pesquisar por nomes de itens, SKU, nome de usuário"
+
+#: View/SchoolOrders/school_index.ctp:57
+#: View/SchoolSales/school_index.ctp:60
+#: View_backup/SchoolOrders/school_index.ctp:57
+#: View_backup/SchoolSales/school_index.ctp:60
+msgid "School Lists Bought From:"
+msgstr "Listas de escolas compradas de:"
+
+#: View/SchoolOrders/school_index.ctp:77
+#: View/SchoolSales/school_index.ctp:80
+#: View_backup/SchoolOrders/school_index.ctp:77
+#: View_backup/SchoolSales/school_index.ctp:80
+msgid "School Lists Bought To:"
+msgstr "Listas de escolas compradas para:"
+
+#: View/SchoolOrders/school_review.ctp:31
+#: View_backup/SchoolOrders/school_review.ctp:31
+msgid "Review"
+msgstr "Reveja"
+
+#: View/SchoolOrders/school_review.ctp:40
+#: View/SchoolOrders/school_view.ctp:81
+#: View_backup/SchoolOrders/school_review.ctp:40
+#: View_backup/SchoolOrders/school_view.ctp:81
+msgid "Shipment %s"
+msgstr "Expedição% s"
+
+#: View/SchoolOrders/school_review.ctp:74
+#: View_backup/SchoolOrders/school_review.ctp:74
+msgid "Estimated Delivery"
+msgstr "Entrega estimada"
+
+#: View/SchoolOrders/school_view.ctp:46
+#: View_backup/SchoolOrders/school_view.ctp:46
+msgid "Credit used"
+msgstr "Crédito utilizado"
+
+#: View/SchoolOrders/school_view.ctp:54
+#: View_backup/SchoolOrders/school_view.ctp:54
+msgid "Placed by"
+msgstr "Colocado por"
+
+#: View/SchoolOrders/school_view.ctp:58
+#: View_backup/SchoolOrders/school_view.ctp:58
+msgid "Placed on"
+msgstr "Colocado sobre"
+
+#: View/SchoolOrders/school_view.ctp:88
+#: View_backup/SchoolOrders/school_view.ctp:88
+msgid "Shipped to"
+msgstr "Enviado para"
+
+#: View/SchoolOrders/school_view.ctp:97
+#: View_backup/SchoolOrders/school_view.ctp:97
+msgid "Street2"
+msgstr "Rua # 2"
+
+#: View/SchoolRequests/index.ctp:130
+#: View_backup/SchoolRequests/index.ctp:130
+msgid "Send message"
+msgstr "Enviar mensagem"
+
+#: View/SchoolSales/school_index.ctp:15;17
+#: View_backup/SchoolSales/school_index.ctp:15;17
+msgid "School Lists Orders"
+msgstr "Ordens de listas escolares"
+
+#: View/SchoolWarehouseOrders/admin_view.ctp:118
+#: View/SupplierOrders/admin_view.ctp:124
+#: View_backup/SchoolWarehouseOrders/admin_view.ctp:118
+#: View_backup/SupplierOrders/admin_view.ctp:124
+msgid "Release Order"
+msgstr "Ordem de liberação"
+
+#: View/SchoolWarehouseOrders/admin_view.ctp:128
+#: View_backup/SchoolWarehouseOrders/admin_view.ctp:128
+msgid "Set order as Shipped"
+msgstr "Definir ordem como enviada"
+
+#: View/SchoolWarehouseOrders/admin_view.ctp:138
+#: View_backup/SchoolWarehouseOrders/admin_view.ctp:138
+msgid "Set order as Delivered"
+msgstr "Definir ordem como entregue"
+
+#: View/Schools/admin_add.ctp:299
+#: View/Schools/admin_edit.ctp:312
+#: View_backup/Schools/admin_add.ctp:301
+#: View_backup/Schools/admin_edit.ctp:302
+msgid "Business Model"
+msgstr "Modelo de Negócio"
+
+#: View/Schools/admin_add.ctp:310
+#: View/Schools/admin_edit.ctp:323
+#: View_backup/Schools/admin_add.ctp:312
+#: View_backup/Schools/admin_edit.ctp:313
+msgid "<u><b>Ship to Customer:</b></u> The School List will be shipped directly to the final customer. <br><br> <u><b>Ship to School:</b></u> The School List will be shipped to the school. The lists will be organized individually. <br><br> <u><b>Wholesaler:</b></u> The supplies will be sent to the school and they will organize them and distribute them among the students."
+msgstr "<u> <b> Enviar ao cliente: </ b> </ u> A lista da escola será enviada diretamente para o cliente final. <br> <br> <u> <b> Enviar para a escola: </ b> </ u> A lista da escola será enviada para a escola. As listas serão organizadas individualmente. <br> <br> <u> <b> Atacadista: </ b> </ u> Os materiais serão enviados para a escola e eles vão organizá-los e distribuí-los entre os alunos."
+
+#: View/Schools/admin_add.ctp:320
+#: View/Schools/admin_edit.ctp:333
+#: View_backup/Schools/admin_add.ctp:322
+#: View_backup/Schools/admin_edit.ctp:323
+msgid "Shipping Rate Types"
+msgstr "Tipos de taxa de frete"
+
+#: View/Schools/admin_add.ctp:331
+#: View/Schools/admin_edit.ctp:344
+#: View_backup/Schools/admin_add.ctp:333
+#: View_backup/Schools/admin_edit.ctp:334
+msgid "<u><b>Free Shipping:</b></u> The Customer won't pay any fee for shipping. <br><br> <u><b>Flat Rate Shipping:</b></u> The customer will pay a flat rate fee for shipping. <br><br> <u><b>Easypost Rate Shipping:</b></u> The customer will pay a fee for shipping calculated with Easypost."
+msgstr "<u> <b> Frete grátis: </ b> </ u> O cliente não pagará nenhuma taxa pelo envio. <br> <br> <u> <b> Taxa fixa de envio: </ b> </ u> O cliente pagará uma taxa fixa pelo envio. <br> <br> <u> <b> Tarifa de envio fácil: </ b> </ u> O cliente pagará uma taxa pelo frete calculado com o Easypost."
+
+#: View/Schools/admin_add.ctp:341
+#: View/Schools/admin_edit.ctp:354
+#: View_backup/Schools/admin_add.ctp:343
+#: View_backup/Schools/admin_edit.ctp:344
+msgid "Shipping Method"
+msgstr "método de envio"
+
+#: View/Schools/admin_add.ctp:352
+#: View/Schools/admin_edit.ctp:365
+#: View_backup/Schools/admin_add.ctp:354
+#: View_backup/Schools/admin_edit.ctp:355
+msgid "<u><b>EasyPost Shipping:</b></u> The School List will be processed with EasyPost and a label will be generated for shipment. <br><br> <u><b>Other method:</b></u> The school List shipment will be processed with other method not related to EasyPost."
+msgstr "<u> <b> Envio EasyPost: </ b> </ u> A lista de escolas será processada com o EasyPost e uma etiqueta será gerada para envio. <br> <br> <u> <b> Outro método: </ b> </ u> O envio da lista da escola será processado com outro método não relacionado ao EasyPost."
+
+#: View/Schools/admin_add.ctp:362
+#: View/Schools/admin_edit.ctp:374
+#: View_backup/Schools/admin_add.ctp:364
+#: View_backup/Schools/admin_edit.ctp:364
+msgid "Shipping Flat Rate"
+msgstr "Taxa fixa de envio"
+
+#: View/Schools/admin_add.ctp:381
+#: View/Schools/admin_edit.ctp:393
+#: View_backup/Schools/admin_add.ctp:384
+#: View_backup/Schools/admin_edit.ctp:384
+msgid "Shipping Rate Types For School Orders"
+msgstr "Tipos de taxa de envio para pedidos escolares"
+
+#: View/Schools/admin_add.ctp:392
+#: View/Schools/admin_edit.ctp:404
+#: View_backup/Schools/admin_add.ctp:395
+#: View_backup/Schools/admin_edit.ctp:395
+msgid "<p>This will be the shipping rate type used when a School makes a purchase at Zolut. </p><u><b>Free Shipping:</b></u> The Customer won't pay any fee for shipping. <br><br> <u><b>Flat Rate Shipping:</b></u> The customer will pay a flat rate fee for shipping. <br><br> <u><b>Easypost Rate Shipping:</b></u> The customer will pay a fee for shipping calculated with Easypost."
+msgstr "<p> Este será o tipo de taxa de envio usado quando uma escola faz uma compra na Zolut. </ p> <u> <b> Frete grátis: </ b> </ u> O cliente não pagará nenhuma taxa pelo envio. <br> <br> <u> <b> Taxa fixa de envio: </ b> </ u> O cliente pagará uma taxa fixa pelo envio. <br> <br> <u> <b> Tarifa de envio fácil: </ b> </ u> O cliente pagará uma taxa pelo frete calculado com o Easypost."
+
+#: View/Schools/admin_add.ctp:402
+#: View/Schools/admin_edit.ctp:414
+#: View_backup/Schools/admin_add.ctp:405
+#: View_backup/Schools/admin_edit.ctp:405
+msgid "Shipping Method on Schools Orders"
+msgstr "Método de Envio nas Ordens Escolares"
+
+#: View/Schools/admin_add.ctp:413
+#: View/Schools/admin_edit.ctp:425
+#: View_backup/Schools/admin_add.ctp:416
+#: View_backup/Schools/admin_edit.ctp:416
+msgid "<p>This will be the shipping method used when a School makes a purchase at Zolut. </p><u><b>EasyPost Shipping:</b></u> The School List will be processed with EasyPost and a label will be generated for shipment. <br><br> <u><b>Other method:</b></u> The school List shipment will be processed with other method not related to EasyPost."
+msgstr "<p> Este será o método de envio usado quando uma escola faz uma compra na Zolut. </ p> <u> <b> Envio EasyPost: </ b> </ u> A lista de escolas será processada com o EasyPost e uma etiqueta será gerada para envio. <br> <br> <u> <b> Outro método: </ b> </ u> O envio da lista da escola será processado com outro método não relacionado ao EasyPost."
+
+#: View/Schools/admin_add.ctp:423
+#: View/Schools/admin_edit.ctp:435
+#: View_backup/Schools/admin_add.ctp:426
+#: View_backup/Schools/admin_edit.ctp:426
+msgid "Shipping Flat Rate For School Orders"
+msgstr "Taxa fixa de envio para pedidos escolares"
+
+#: View/Schools/admin_add.ctp:464
+#: View/Schools/admin_edit.ctp:476
+msgid "Value 01"
+msgstr "Valor 01"
+
+#: View/Schools/admin_add.ctp:494
+#: View/Schools/admin_edit.ctp:506
+msgid "Value 02"
+msgstr "Valor 02"
+
+#: View/Schools/admin_add.ctp:524
+#: View/Schools/admin_edit.ctp:536
+msgid "Value 03"
+msgstr "Valor 03"
+
+#: View/Schools/admin_add.ctp:554
+#: View/Schools/admin_edit.ctp:566
+msgid "Value 04"
+msgstr "Valor 04"
+
+#: View/Schools/admin_add.ctp:584
+#: View/Schools/admin_edit.ctp:596
+msgid "Value 05"
+msgstr "Valor 05"
+
+#: View/Schools/admin_add.ctp:614
+#: View/Schools/admin_edit.ctp:626
+msgid "Value 06"
+msgstr "Valor 06"
+
+#: View/Schools/admin_add_commission_payment.ctp:53
+#: View/Schools/admin_edit_commission_payment.ctp:55
+msgid "Total amount of"
+msgstr "Quantidade total de"
+
+#: View/Schools/admin_add_commission_payment.ctp:69
+#: View/Schools/admin_edit_commission_payment.ctp:71
+msgid "Total commission payments"
+msgstr "Total de pagamentos de comissão"
+
+#: View/Schools/admin_add_commission_payment.ctp:92
+#: View/Schools/admin_edit_commission_payment.ctp:94
+msgid "Amount paid"
+msgstr "Quantia paga"
+
+#: View/Schools/admin_add_commission_payment.ctp:105
+#: View/Schools/admin_edit_commission_payment.ctp:107
+msgid "Payment method"
+msgstr "Método de pagamento"
+
+#: View/Schools/admin_add_commission_payment.ctp:121
+#: View/Schools/admin_edit_commission_payment.ctp:123
+msgid "Reference"
+msgstr "Referência"
+
+#: View/Schools/admin_add_commission_payment.ctp:133
+#: View/Schools/admin_edit_commission_payment.ctp:135
+msgid "Payment paid on"
+msgstr "Pagamento pago em"
+
+#: View/Schools/admin_add_commission_payment.ctp:155
+#: View/Schools/admin_edit_commission_payment.ctp:157
+msgid "Payment to"
+msgstr "Pagamento para"
+
+#: View/Schools/admin_add_commission_payment.ctp:168
+#: View/Schools/admin_edit_commission_payment.ctp:170
+msgid "Observation"
+msgstr "Observação"
+
+#: View/Schools/admin_add_user.ctp:6
+#: View_backup/Schools/admin_add_user.ctp:6
+msgid "User assignment"
+msgstr "Atribuição de usuário"
+
+#: View/Schools/admin_add_user.ctp:120
+#: View_backup/Schools/admin_add_user.ctp:120
+msgid "Nothing to show"
+msgstr "Nada para mostrar"
+
+#: View/Schools/admin_edit.ctp:293
+msgid "Change the date on all school listings for this school"
+msgstr "Alterar a data em todas as listas da escola para esta escola"
+
+#: View/Schools/admin_view.ctp:25
+#: View/Schools/school_edit.ctp:42
+#: View/ShippingSuppliers/admin_delivered_orders.ctp:25
+#: View/ShippingSuppliers/admin_pending_orders.ctp:25
+#: View/ShippingSuppliers/admin_released_orders.ctp:25
+#: View/ShippingSuppliers/admin_shipped_orders.ctp:25
+#: View/Suppliers/admin_delivered_orders.ctp:25
+#: View/Suppliers/admin_pending_orders.ctp:25
+#: View/Suppliers/admin_released_orders.ctp:25
+#: View/Suppliers/admin_shipped_orders.ctp:25
+#: View/Warehouses/admin_view.ctp:25
+#: View_backup/Schools/admin_view.ctp:25
+#: View_backup/Suppliers/admin_delivered_orders.ctp:25
+#: View_backup/Suppliers/admin_pending_orders.ctp:25
+#: View_backup/Suppliers/admin_released_orders.ctp:25
+#: View_backup/Suppliers/admin_shipped_orders.ctp:25
+#: View_backup/Warehouses/admin_view.ctp:25
+msgid "Information"
+msgstr "Em formação"
+
+#: View/Schools/admin_view.ctp:28
+#: View/ShippingSuppliers/admin_delivered_orders.ctp:39
+#: View/ShippingSuppliers/admin_pending_orders.ctp:39
+#: View/ShippingSuppliers/admin_released_orders.ctp:39
+#: View/ShippingSuppliers/admin_shipped_orders.ctp:39
+#: View/Suppliers/admin_delivered_orders.ctp:39
+#: View/Suppliers/admin_pending_orders.ctp:39
+#: View/Suppliers/admin_released_orders.ctp:39
+#: View/Suppliers/admin_shipped_orders.ctp:39
+#: View_backup/Schools/admin_view.ctp:28
+#: View_backup/Suppliers/admin_delivered_orders.ctp:39
+#: View_backup/Suppliers/admin_pending_orders.ctp:39
+#: View_backup/Suppliers/admin_released_orders.ctp:39
+#: View_backup/Suppliers/admin_shipped_orders.ctp:39
+msgid "Contacts"
+msgstr "Contatos"
+
+#: View/Schools/admin_view.ctp:31
+#: View_backup/Schools/admin_view.ctp:31
+msgid "Grades/Lists"
+msgstr "Grades / Listas"
+
+#: View/Schools/admin_view.ctp:34
+#: View_backup/Schools/admin_view.ctp:34
+msgid "Sales"
+msgstr "Vendas"
+
+#: View/Schools/admin_view.ctp:42
+#: View_backup/Schools/admin_view.ctp:42
+msgid "Assigned users"
+msgstr "Usuários atribuídos"
+
+#: View/Schools/admin_view.ctp:45
+msgid "Commission Payment"
+msgstr "Pagamento de comissão"
+
+#: View/Schools/admin_view.ctp:53
+#: View_backup/Schools/admin_view.ctp:50
+msgid "Disable school"
+msgstr "Desabilitar escola"
+
+#: View/Schools/admin_view.ctp:61
+#: View/Warehouses/admin_view.ctp:76
+#: View_backup/Schools/admin_view.ctp:58
+#: View_backup/Warehouses/admin_view.ctp:76
+msgid "Are you sure you want to disable %s?"
+msgstr "Tem certeza de que deseja desativar% s?"
+
+#: View/Schools/admin_view.ctp:65
+#: View_backup/Schools/admin_view.ctp:62
+msgid "Enable school"
+msgstr "Habilitar escola"
+
+#: View/Schools/admin_view.ctp:336
+#: View_backup/Schools/admin_view.ctp:323
+msgid "Disable"
+msgstr "Desabilitar"
+
+#: View/Schools/admin_view.ctp:345
+#: View_backup/Schools/admin_view.ctp:332
+msgid "Are you sure that you want to disable %s"
+msgstr "Tem certeza de que deseja desativar% s"
+
+#: View/Schools/admin_view.ctp:347
+#: View_backup/Schools/admin_view.ctp:334
+msgid "Enable"
+msgstr "Habilitar"
+
+#: View/Schools/admin_view.ctp:356
+#: View_backup/Schools/admin_view.ctp:343
+msgid "Are you sure that you want to enable %s"
+msgstr "Tem certeza de que deseja ativar% s"
+
+#: View/Schools/admin_view.ctp:369
+#: View_backup/Schools/admin_view.ctp:356
+msgid "Are you sure you want to delete this record"
+msgstr "Tem certeza de que deseja excluir este registro?"
+
+#: View/Schools/index - Copy.ctp:55
+#: View_backup/Schools/index - Copy.ctp:55
+msgid "Select"
+msgstr "Selecione"
+
+#: View/Schools/index.ctp:24
+#: View/StripeWebhook/index.ctp:24
+msgid "Let's search for your school!"
+msgstr "Vamos procurar sua escola!"
+
+#: View/Schools/index.ctp:39
+#: View/StripeWebhook/index.ctp:39
+msgid "Hey, your school's name goes here"
+msgstr "Ei, o nome da sua escola vai aqui"
+
+#: View/Schools/school_boxes_sold_grade.ctp:21
+#: View/Schools/school_boxes_sold_grade_pdf.ctp:25
+#: View/Schools/school_view.ctp:63;65
+msgid "Boxes Sold By Grade"
+msgstr "Caixas vendidas por grau"
+
+#: View/Schools/school_boxes_sold_grade.ctp:23
+msgid "Boxes Sold By Grade: "
+msgstr "Caixas vendidas por grau:"
+
+#: View/Schools/school_boxes_sold_grade_pdf.ctp:51
+#: View/Schools/school_name_students_grade_pdf.ctp:50
+#: View/Schools/school_sales_details_pdf.ctp:49
+msgid "School Address"
+msgstr "Endereço escolar"
+
+#: View/Schools/school_boxes_sold_grade_pdf.ctp:61
+#: View/Schools/school_name_students_grade_pdf.ctp:60
+#: View/Schools/school_sales_details_pdf.ctp:59
+msgid "Number of Students"
+msgstr "Número de estudantes"
+
+#: View/Schools/school_boxes_sold_grade_pdf.ctp:66
+#: View/Schools/school_sales_details_pdf.ctp:64
+msgid "Profit Share"
+msgstr "Participação nos Lucros"
+
+#: View/Schools/school_boxes_sold_grade_pdf.ctp:71
+#: View/Schools/school_name_students_grade_pdf.ctp:70
+#: View/Schools/school_sales_details_pdf.ctp:69
+msgid "Date range"
+msgstr "Intervalo de datas"
+
+#: View/Schools/school_boxes_sold_grade_pdf.ctp:75
+#: View/Schools/school_name_students_grade_pdf.ctp:74
+#: View/Schools/school_sales_details_pdf.ctp:73
+msgid "FROM"
+msgstr "DE"
+
+#: View/Schools/school_boxes_sold_grade_pdf.ctp:79
+#: View/Schools/school_sales_details_pdf.ctp:77
+msgid "We would like to THANK YOU for the support during this year!"
+msgstr "Gostaríamos de agradecer pelo apoio durante este ano!"
+
+#: View/Schools/school_boxes_sold_grade_pdf.ctp:82
+#: View/Schools/school_sales_details_pdf.ctp:80
+msgid "For your information, please find below the summary of sales for this period."
+msgstr "Para sua informação, veja abaixo o resumo das vendas para este período."
+
+#: View/Schools/school_boxes_sold_grade_pdf.ctp:86
+#: View/Schools/school_sales_details_pdf.ctp:84
+msgid "TOTAL SUPPLIES LIST SOLD BY GRADE:"
+msgstr "TOTAL OFERTA LISTA VENDIDA POR GRAU:"
+
+#: View/Schools/school_boxes_sold_grade_pdf.ctp:138
+msgid "TOTAL BOXES SOLD"
+msgstr "TOTAL DE CAIXAS VENDIDAS"
+
+#: View/Schools/school_edit.ctp:148
+#: View/Schools/school_view.ctp:132
+msgid "Students"
+msgstr "Estudantes"
+
+#: View/Schools/school_edit.ctp:179
+#: View/StripeWebhook/my_subscriptions.ctp:75
+#: webroot/plugins/infinite-scroll/wordpress-plugin/includes/presets.php:677
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: View/Schools/school_grades_view.ctp:15
+msgid "Grades"
+msgstr "Notas"
+
+#: View/Schools/school_grades_view.ctp:17
+#: View_backup/Schools/school_grades_view.ctp:17
+msgid "Grades in "
+msgstr "Grades em"
+
+#: View/Schools/school_grades_view.ctp:41
+#: View_backup/Schools/school_grades_view.ctp:41
+msgid "There are no grade levels assigned to this school yet."
+msgstr "Não há níveis de notas atribuídos a esta escola ainda."
+
+#: View/Schools/school_name_students_grade.ctp:21
+#: View/Schools/school_name_students_grade_pdf.ctp:26;78
+#: View/Schools/school_view.ctp:69;71
+msgid "Box Sold By Name/Grade"
+msgstr "Caixa Vendido Por Nome / Grau"
+
+#: View/Schools/school_name_students_grade.ctp:23
+msgid "Box Sold By Name/Grade: "
+msgstr "Caixa vendida por nome / classe:"
+
+#: View/Schools/school_name_students_grade.ctp:52
+#: View/Schools/school_sales_details.ctp:52
+msgid "Date From"
+msgstr "Data de"
+
+#: View/Schools/school_name_students_grade.ctp:75
+#: View/Schools/school_sales_details.ctp:75
+msgid "Date To"
+msgstr "Data para"
+
+#: View/Schools/school_sales_details.ctp:21
+#: View/Schools/school_sales_details_pdf.ctp:25
+#: View/Schools/school_view.ctp:75;77
+msgid "School Sales Profit Report"
+msgstr "Relatório de Lucro das Vendas Escolares"
+
+#: View/Schools/school_sales_details.ctp:23
+msgid "School Sales Profit Report: "
+msgstr "Relatório de Lucro das Vendas Escolares:"
+
+#: View/Schools/school_sales_details_pdf.ctp:129
+msgid "TOTAL LIST SOLD"
+msgstr "TOTAL LISTA VENDIDA"
+
+#: View/Schools/school_sales_details_pdf.ctp:150
+msgid "SCHOOL TOTAL PROFIT SHARE"
+msgstr "LUCRO TOTAL DA ESCOLA COMPARTILHAR"
+
+#: View/Schools/school_view.ctp:100
+msgid "Commission Rate"
+msgstr "Taxa de comissão"
+
+#: View/Schools/school_view.ctp:136
+msgid "Created At"
+msgstr "Criado em"
+
+#: View/Schools/school_view.ctp:141
+#: View/StripeWebhook/my_subscriptions.ctp:74
+#: webroot/plugins/infinite-scroll/wordpress-plugin/includes/presets.php:676
+msgid "Edit"
+msgstr "Editar"
+
+#: View/Schools/view.ctp:28
+#: View_backup/Schools/view.ctp:28
+msgid "We are sorry to inform you that lists from this school are only available between %s and %s"
+msgstr "Lamentamos informar que as listas dessa escola só estão disponíveis entre% s e% s"
+
+#: View/Schools/view.ctp:70
+#: View_backup/Schools/view.ctp:70
+msgid "This school list will be shipped to the address you specify in the checkout."
+msgstr "Esta lista da escola será enviada para o endereço que você especificar no checkout."
+
+#: View/Schools/view.ctp:92
+#: View/StripeWebhook/view.ctp:47
+msgid "Select your school box"
+msgstr "Selecione sua caixa da escola"
+
+#: View/Schools/view.ctp:121
+#: View/StripeWebhook/view.ctp:76
+msgid "VIEW"
+msgstr "VISÃO"
+
+#: View/Schools/view.ctp:175
+msgid "Images are for illustrative purposes only. Actual products may vary."
+msgstr "As imagens são apenas para fins ilustrativos. Os produtos reais podem variar."
+
+#: View/Schools/view.ctp:252
+#: View_backup/Schools/view.ctp:191
+msgid "School list summary"
+msgstr "Resumo da lista escolar"
+
+#: View/Schools/view.ctp:254
+#: View_backup/Schools/view.ctp:193
+msgid "The cost reflected here is for the selected list."
+msgstr "O custo refletido aqui é para a lista selecionada."
+
+#: View/Schools/view.ctp:277
+msgid "Your kid's name"
+msgstr "Nome do seu filho"
+
+#: View/Schools/view.ctp:306
+msgid "Subscribe payment plan"
+msgstr "Assine o plano de pagamento"
+
+#: View/Schools/view.ctp:311
+msgid "monthly installments"
+msgstr "parcelas mensais"
+
+#: View/Schools/view.ctp:313
+msgid "From September"
+msgstr "De setembro"
+
+#: View/Schools/view.ctp:313
+msgid "to June"
+msgstr "para junho"
+
+#: View/Schools/view.ctp:320
+msgid "Subscribe Plan"
+msgstr "Subscreva o plano"
+
+#: View/Schools/view.ctp:343;369
+msgid "Dear customer"
+msgstr "Estimado cliente"
+
+#: View/Schools/view.ctp:344
+msgid "In the bottom part of this list, you'll find 'Optional Products', these products are optional according to the School, we leave the choice to include these products in the list to you."
+msgstr "Na parte inferior desta lista, você encontrará \"Produtos Opcionais\", esses produtos são opcionais de acordo com a Escola, deixamos a opção de incluir esses produtos na lista para você."
+
+#: View/Schools/view.ctp:346
+#: View_backup/Schools/view.ctp:254
+msgid "Enjoy shoping with us!"
+msgstr "Gosta de fazer compras conosco!"
+
+#: View/Schools/view.ctp:352;380
+msgid "I got it, don't show me this message anymore."
+msgstr "Eu entendi, não me mostre mais essa mensagem."
+
+#: View/Schools/view.ctp:370
+msgid "The list contains all the product types and quantities needed for the new school year."
+msgstr "A lista contém todos os tipos e quantidades de produtos necessários para o novo ano escolar."
+
+#: View/Schools/view.ctp:371
+msgid "You will be presented with a series of products and their quantities according to the school's supplies list, however, you have the freedom to modify this list on your own convenience."
+msgstr "Você será presenteado com uma série de produtos e suas quantidades de acordo com a lista de suprimentos da escola, no entanto, você tem a liberdade de modificar esta lista em sua própria conveniência."
+
+#: View/Schools/view.ctp:372
+msgid "We have also provided a 'more options' link which will show you a different version of the required products. You may choose either version as per your preference."
+msgstr "Também fornecemos um link \"mais opções\", que mostra uma versão diferente dos produtos necessários. Você pode escolher qualquer versão conforme sua preferência."
+
+#: View/Schools/view.ctp:374
+msgid "Thank you very much for shopping with us!!!"
+msgstr "Muito obrigado por fazer compras com a gente !!!"
+
+#: View/Settings/admin_index.ctp:53
+#: View_backup/Settings/admin_index.ctp:53
+msgid "Modal will be shown from:"
+msgstr "Modal será mostrado a partir de:"
+
+#: View/Settings/admin_index.ctp:73
+#: View_backup/Settings/admin_index.ctp:73
+msgid "Modal will be shown up to:"
+msgstr "O Modal será mostrado até:"
+
+#: View/Settings/admin_index.ctp:112
+#: View_backup/Settings/admin_index.ctp:112
+msgid "Are you sure that you want to remove this image from the Home modal?"
+msgstr "Tem certeza de que deseja remover esta imagem do modal da Home?"
+
+#: View/ShippingSuppliers/admin_add_warehouse.ctp:6
+#: View/Suppliers/admin_add_warehouse.ctp:6
+#: View_backup/Suppliers/admin_add_warehouse.ctp:6
+msgid "Warehouse assignment"
+msgstr "Atribuição de armazém"
+
+#: View/ShippingSuppliers/admin_delivered_orders.ctp:54
+#: View/ShippingSuppliers/admin_pending_orders.ctp:54
+#: View/ShippingSuppliers/admin_released_orders.ctp:54
+#: View/ShippingSuppliers/admin_shipped_orders.ctp:54
+#: View/Suppliers/admin_delivered_orders.ctp:54
+#: View/Suppliers/admin_pending_orders.ctp:54
+#: View/Suppliers/admin_released_orders.ctp:54
+#: View/Suppliers/admin_shipped_orders.ctp:54
+#: View_backup/Suppliers/admin_delivered_orders.ctp:54
+#: View_backup/Suppliers/admin_pending_orders.ctp:54
+#: View_backup/Suppliers/admin_released_orders.ctp:54
+#: View_backup/Suppliers/admin_shipped_orders.ctp:54
+msgid "Bank Accounts"
+msgstr "Contas bancárias"
+
+#: View/ShippingSuppliers/admin_delivered_orders.ctp:84
+#: View/ShippingSuppliers/admin_released_orders.ctp:84
+#: View/ShippingSuppliers/admin_shipped_orders.ctp:84
+#: View/Suppliers/admin_delivered_orders.ctp:84
+#: View/Suppliers/admin_released_orders.ctp:84
+#: View/Suppliers/admin_shipped_orders.ctp:84
+#: View_backup/Suppliers/admin_delivered_orders.ctp:84
+#: View_backup/Suppliers/admin_released_orders.ctp:84
+#: View_backup/Suppliers/admin_shipped_orders.ctp:84
+msgid "Pending Orders"
+msgstr "Ordens pendentes"
+
+#: View/ShippingSuppliers/admin_delivered_orders.ctp:99
+#: View/ShippingSuppliers/admin_pending_orders.ctp:87
+#: View/ShippingSuppliers/admin_released_orders.ctp:98
+#: View/ShippingSuppliers/admin_shipped_orders.ctp:99
+#: View/Suppliers/admin_delivered_orders.ctp:99
+#: View/Suppliers/admin_pending_orders.ctp:87
+#: View/Suppliers/admin_released_orders.ctp:98
+#: View/Suppliers/admin_shipped_orders.ctp:99
+#: View_backup/Suppliers/admin_delivered_orders.ctp:99
+#: View_backup/Suppliers/admin_pending_orders.ctp:87
+#: View_backup/Suppliers/admin_released_orders.ctp:98
+#: View_backup/Suppliers/admin_shipped_orders.ctp:99
+msgid "Released Orders"
+msgstr "Pedidos liberados"
+
+#: View/ShippingSuppliers/admin_delivered_orders.ctp:113
+#: View/ShippingSuppliers/admin_pending_orders.ctp:101
+#: View/ShippingSuppliers/admin_released_orders.ctp:112
+#: View/Suppliers/admin_delivered_orders.ctp:113
+#: View/Suppliers/admin_pending_orders.ctp:101
+#: View/Suppliers/admin_released_orders.ctp:112
+#: View_backup/Suppliers/admin_delivered_orders.ctp:113
+#: View_backup/Suppliers/admin_pending_orders.ctp:101
+#: View_backup/Suppliers/admin_released_orders.ctp:112
+msgid "Shipped Orders"
+msgstr "Pedidos enviados"
+
+#: View/ShippingSuppliers/admin_pending_orders.ctp:115
+#: View/ShippingSuppliers/admin_released_orders.ctp:126
+#: View/ShippingSuppliers/admin_shipped_orders.ctp:116
+#: View/Suppliers/admin_pending_orders.ctp:115
+#: View/Suppliers/admin_released_orders.ctp:126
+#: View/Suppliers/admin_shipped_orders.ctp:116
+#: View_backup/Suppliers/admin_pending_orders.ctp:115
+#: View_backup/Suppliers/admin_released_orders.ctp:126
+#: View_backup/Suppliers/admin_shipped_orders.ctp:116
+msgid "Delivered Orders"
+msgstr "Entregas entregues"
+
+#: View/ShippingSuppliers/admin_view.ctp:68;848
+msgid "Disable Shipping Supplier"
+msgstr "Desativar fornecedor de envio"
+
+#: View/ShippingSuppliers/admin_view.ctp:72
+msgid "Enable Shipping Supplier"
+msgstr "Ativar fornecedor de envio"
+
+#: View/ShippingSuppliers/admin_view.ctp:750;956
+msgid "Assign school"
+msgstr "Atribuir escola"
+
+#: View/ShippingSuppliers/admin_view.ctp:797
+msgid "Are you sure you can delete this school."
+msgstr "Você tem certeza que pode deletar esta escola?"
+
+#: View/ShoppingCartSchools/school_index.ctp:88
+#: View_backup/ShoppingCartSchools/school_index.ctp:88
+msgid "There are no items in your cart"
+msgstr "Não existem itens no seu carrinho"
+
+#: View/ShoppingCartSchools/school_index.ctp:98
+#: View_backup/ShoppingCartSchools/school_index.ctp:98
+msgid "Go back to products"
+msgstr "Volte para os produtos"
+
+#: View/ShoppingCarts/index.ctp:34
+#: View/ShoppingCarts/index_cookie.ctp:35
+msgid "You currently have"
+msgstr "Você tem atualmente"
+
+#: View/ShoppingCarts/index.ctp:34
+#: View/ShoppingCarts/index_cookie.ctp:35
+msgid "item(s) in your cart."
+msgstr "itens em seu carrinho."
+
+#: View/ShoppingCarts/index.ctp:158
+msgid "Dear Costumer"
+msgstr "Estimado cliente"
+
+#: View/ShoppingCarts/index.ctp:160
+msgid "We truly appreciate your interest to buying your kid's School supplies with us, but unfortunately this list is no longer available due to the deadline for the delivery of the products and for the previous agreement with the School."
+msgstr "Nós realmente apreciamos seu interesse em comprar o material escolar do seu filho conosco, mas infelizmente essa lista não está mais disponível devido ao prazo final para a entrega dos produtos e para o acordo anterior com a Escola."
+
+#: View/ShoppingCarts/index.ctp:162
+msgid "However, if it is your interest you could send you request at"
+msgstr "No entanto, se for do seu interesse, pode enviar-lhe um pedido em"
+
+#: View/ShoppingCarts/index.ctp:162
+msgid "products@zolut.com"
+msgstr "products@zolut.com"
+
+#: View/ShoppingCarts/index.ctp:164
+msgid "Thanks"
+msgstr "obrigado"
+
+#: View/ShoppingCarts/index.ctp:193
+#: View/ShoppingCarts/index_cookie.ctp:145
+msgid "edit this name"
+msgstr "edite esse nome"
+
+#: View/ShoppingCarts/index.ctp:196;383
+#: View/ShoppingCarts/index_cookie.ctp:148;314
+msgid "Remove entire list"
+msgstr "Remover lista inteira"
+
+#: View/ShoppingCarts/index.ctp:467
+#: View/ShoppingCarts/index_cookie.ctp:386
+msgid "Remove this bundle"
+msgstr "Remover este pacote"
+
+#: View/ShoppingCarts/index.ctp:543
+#: View/ShoppingCarts/index_cookie.ctp:463
+#: View_backup/ShoppingCarts/index.ctp:475
+#: View_backup/ShoppingCarts/index_cookie.ctp:458
+msgid "Continue shopping"
+msgstr "Continue comprando"
+
+#: View/ShoppingCarts/index.ctp:571
+#: View/ShoppingCarts/index_cookie.ctp:490
+msgid "Products in your wishlist"
+msgstr "Produtos na sua lista de desejos"
+
+#: View/ShoppingCarts/index.ctp:659;696
+#: View_backup/ShoppingCarts/index.ctp:577
+msgid "discount in school list"
+msgstr "desconto na lista da escola"
+
+#: View/ShoppingCarts/index.ctp:679
+msgid "more stuff product"
+msgstr "mais produto de material"
+
+#: View/ShoppingCarts/index.ctp:715
+msgid "Payment Code"
+msgstr "Código de pagamento"
+
+#: View/StripeWebhook/my_subscription_details.ctp:38
+#: View/StripeWebhook/my_subscriptions.ctp:34
+msgid "Desired Number of Months"
+msgstr "Número desejado de meses"
+
+#: View/StripeWebhook/my_subscription_details.ctp:42
+#: View/StripeWebhook/my_subscriptions.ctp:35
+msgid "Interval"
+msgstr "Intervalo"
+
+#: View/StripeWebhook/my_subscription_details.ctp:43
+#: View/StripeWebhook/my_subscriptions.ctp:54
+msgid "Montly"
+msgstr "Por mês"
+
+#: View/StripeWebhook/my_subscription_details.ctp:46
+#: View/StripeWebhook/my_subscriptions.ctp:36
+#: View/StripeWebhook/payment_method.ctp:193;250
+msgid "Desired Monthly Payment"
+msgstr "Pagamento Mensal Desejado"
+
+#: View/StripeWebhook/my_subscription_details.ctp:50
+#: View/StripeWebhook/my_subscriptions.ctp:37
+msgid "Total Amount of the plan"
+msgstr "Valor total do plano"
+
+#: View/StripeWebhook/my_subscription_details.ctp:65
+#: View/StripeWebhook/my_subscriptions.ctp:38
+msgid "Total Months until today"
+msgstr "Total de meses até hoje"
+
+#: View/StripeWebhook/my_subscription_details.ctp:69
+#: View/StripeWebhook/my_subscriptions.ctp:39
+msgid "Total Amount until today"
+msgstr "Valor total até hoje"
+
+#: View/StripeWebhook/my_subscription_details.ctp:73
+msgid "Amount Used"
+msgstr "Quantidade utilizada"
+
+#: View/StripeWebhook/my_subscription_details.ctp:86
+msgid "Amount available"
+msgstr "Quantia disponível"
+
+#: View/StripeWebhook/my_subscription_details.ctp:101
+msgid "My subscription details"
+msgstr "Meus detalhes da assinatura"
+
+#: View/StripeWebhook/my_subscription_details.ctp:106
+msgid "Operation"
+msgstr "Operação"
+
+#: View/StripeWebhook/my_subscription_details.ctp:108;115
+msgid "Paid"
+msgstr "Pago"
+
+#: View/StripeWebhook/my_subscription_details.ctp:115
+msgid "Failed payment"
+msgstr "Pagamento falhado"
+
+#: View/StripeWebhook/my_subscription_details.ctp:122
+msgid "Payment Codes"
+msgstr "Códigos de Pagamento"
+
+#: View/StripeWebhook/my_subscription_details.ctp:127
+msgid "Code"
+msgstr "Código"
+
+#: View/StripeWebhook/my_subscription_details.ctp:131
+msgid "Used Amount"
+msgstr "Quantia Usada"
+
+#: View/StripeWebhook/my_subscription_details.ctp:156
+msgid "Return To My Subscriptions"
+msgstr "Retornar para minhas assinaturas"
+
+#: View/StripeWebhook/my_subscriptions.ctp:29
+msgid "Subscribed plans"
+msgstr "Planos subscritos"
+
+#: View/StripeWebhook/my_subscriptions.ctp:72
+msgid "View Event"
+msgstr "Visualizar evento"
+
+#: View/StripeWebhook/payment_method.ctp:221
+#: View/StripeWebhook/payment_method_old.ctp:205
+#: View/StripeWebhook/update_subscription.ctp:232
+msgid "Process Subscription"
+msgstr "Assinatura de Processo"
+
+#: View/StripeWebhook/payment_method.ctp:238
+#: View/StripeWebhook/update_subscription.ctp:251
+msgid "Description of the plan"
+msgstr "Descrição do plano"
+
+#: View/StripeWebhook/payment_method.ctp:246
+#: View/StripeWebhook/update_subscription.ctp:192;259
+msgid "Number of Months to pay"
+msgstr "Número de meses para pagar"
+
+#: View/StripeWebhook/subscribe.ctp:25;28
+msgid "Click here to subscribe."
+msgstr "Clique aqui para se inscrever."
+
+#: View/StripeWebhook/subscribe.ctp:28
+msgid "SUBSCRIBE HERE"
+msgstr "INSCREVA-SE AQUI"
+
+#: View/StripeWebhook/update_subscription.ctp:206;263
+msgid "Monthly Payment"
+msgstr "Pagamento mensal"
+
+#: View/StripeWebhook/view.ctp:85
+msgid "Select your grade"
+msgstr "Selecione seu grau"
+
+#: View/SupplierOrders/admin_view.ctp:133
+#: View_backup/SupplierOrders/admin_view.ctp:133
+msgid "Generate PDF"
+msgstr "Gerar PDF"
+
+#: View/SupplierSalesWarnings/admin_add.ctp:55
+#: View/SupplierSalesWarnings/admin_edit.ctp:55
+#: View_backup/SupplierSalesWarnings/admin_add.ctp:55
+#: View_backup/SupplierSalesWarnings/admin_edit.ctp:55
+msgid "Enabled"
+msgstr "ativado"
+
+#: View/SupplierSalesWarnings/admin_add.ctp:78
+#: View/SupplierSalesWarnings/admin_edit.ctp:78
+#: View_backup/SupplierSalesWarnings/admin_add.ctp:78
+#: View_backup/SupplierSalesWarnings/admin_edit.ctp:78
+msgid "Start Date:"
+msgstr "Data de início:"
+
+#: View/SupplierSalesWarnings/admin_add.ctp:98
+#: View/SupplierSalesWarnings/admin_edit.ctp:98
+#: View_backup/SupplierSalesWarnings/admin_add.ctp:98
+#: View_backup/SupplierSalesWarnings/admin_edit.ctp:98
+msgid "End Date:"
+msgstr "Data final:"
+
+#: View/Suppliers/admin_view.ctp:92
+#: View_backup/Suppliers/admin_view.ctp:92
+msgid "Are you sure you want to mark this supplier's products as error?"
+msgstr "Tem certeza de que deseja marcar os produtos deste fornecedor como um erro?"
+
+#: View/Suppliers/admin_view.ctp:731
+#: View/Warehouses/admin_add.ctp:6;11
+#: View/Warehouses/admin_edit.ctp:6;11
+#: View/Warehouses/admin_index.ctp:6;11;19
+#: View/Warehouses/admin_view.ctp:6;11
+#: View_backup/Suppliers/admin_view.ctp:482
+#: View_backup/Warehouses/admin_add.ctp:6;11
+#: View_backup/Warehouses/admin_edit.ctp:6;11
+#: View_backup/Warehouses/admin_index.ctp:6;11;19
+#: View_backup/Warehouses/admin_view.ctp:6;11
+msgid "Warehouses"
+msgstr "Armazéns"
+
+#: View/Suppliers/admin_view.ctp:862
+#: View_backup/Suppliers/admin_view.ctp:612
+msgid "Are you sure you want to delete this Sale Warning?"
+msgstr "Tem certeza de que deseja excluir este Aviso de venda?"
+
+#: View/Warehouses/admin_add.ctp:151
+#: View/Warehouses/admin_edit.ctp:151
+#: View_backup/Warehouses/admin_add.ctp:151
+#: View_backup/Warehouses/admin_edit.ctp:151
+msgid "Dropshipping"
+msgstr "Dropshipping"
+
+#: View/Warehouses/admin_add.ctp:162
+#: View/Warehouses/admin_edit.ctp:162
+#: View_backup/Warehouses/admin_add.ctp:162
+#: View_backup/Warehouses/admin_edit.ctp:162
+msgid "If the dropship is performed by the supplier it means that they will likely charge for this service. If ZOLUT dropship the item then there will be no charge for the concept of dropshipping."
+msgstr "Se o dropship for executado pelo fornecedor, isso significa que eles provavelmente irão cobrar por este serviço. Se ZOLUT dropship o item, então não haverá nenhum custo para o conceito de dropshipping."
+
+#: View/Warehouses/admin_add.ctp:182
+#: View/Warehouses/admin_edit.ctp:182
+#: View_backup/Warehouses/admin_add.ctp:182
+#: View_backup/Warehouses/admin_edit.ctp:182
+msgid "<u><b>Best rate:</b></u> Means that the cheapest rate will be picked among FEDEX, UPS and USPS. <br><br> <u><b>Supplier:</b></u> The supplier will ship the items(s) on their own means, there will be a flat shipping rate for this option."
+msgstr "<u> <b> Melhor taxa: </ b> </ u> Significa que a taxa mais barata será escolhida entre FEDEX, UPS e USPS. <br> <br> <u> <b> Fornecedor: </ b> </ u> O fornecedor enviará o (s) item (ns) por conta própria, haverá uma tarifa de envio fixa para esta opção."
+
+#: View/Warehouses/admin_add.ctp:192
+#: View/Warehouses/admin_edit.ctp:192
+#: View_backup/Warehouses/admin_add.ctp:192
+#: View_backup/Warehouses/admin_edit.ctp:192
+msgid "Parcel Calculation"
+msgstr "Cálculo da Parcela"
+
+#: View/Warehouses/admin_add.ctp:202
+#: View/Warehouses/admin_edit.ctp:202
+#: View_backup/Warehouses/admin_add.ctp:202
+#: View_backup/Warehouses/admin_edit.ctp:202
+msgid "<u><b>Predefined packages:</b></u> This warehouse will use predefined package sizes previously assigned to it to calculate shipment rates with all the different carriers. <br><br> <u><b>Sum of product's volume:</b></u> The system will calculate the volume of each of the items, and create a cube with the sum of the volume of all the items, the cube will be used as package measures to obtain the rates from the carriers. Use this option only if the supplier won't supply package measures."
+msgstr "<u> <b> Pacotes pré-definidos: </ b> </ u> Este armazém usará tamanhos de pacotes pré-definidos anteriormente atribuídos a ele para calcular as taxas de envio com todas as diferentes transportadoras. <br> <br> <u> <b> Soma do volume do produto: </ b> </ u> O sistema calculará o volume de cada um dos itens e criará um cubo com a soma do volume de todos os itens. itens, o cubo será usado como medidas de embalagem para obter as taxas das transportadoras. Use esta opção somente se o fornecedor não fornecer medidas de pacote."
+
+#: View/Warehouses/admin_add.ctp:212
+#: View/Warehouses/admin_edit.ctp:212
+#: View_backup/Warehouses/admin_add.ctp:212
+#: View_backup/Warehouses/admin_edit.ctp:212
+msgid "Flat shipping rate"
+msgstr "Taxa de envio plana"
+
+#: View/Warehouses/admin_add.ctp:225
+#: View/Warehouses/admin_edit.ctp:225
+#: View_backup/Warehouses/admin_add.ctp:225
+#: View_backup/Warehouses/admin_edit.ctp:225
+msgid "This rate will be used ONLY if the carrier selected to ship the product is \"SUPPLIER\""
+msgstr "Esta taxa será usada SOMENTE se a transportadora selecionada para enviar o produto for \"FORNECEDOR\""
+
+#: View/Warehouses/admin_view.ctp:29;175
+#: View_backup/Warehouses/admin_view.ctp:29;175
+msgid "Suppliers"
+msgstr "Fornecedores"
+
+#: View/Warehouses/admin_view.ctp:37
+#: View_backup/Warehouses/admin_view.ctp:37
+msgid "Parcels"
+msgstr "Parcelas"
+
+#: View/Warehouses/admin_view.ctp:64
+#: View_backup/Warehouses/admin_view.ctp:64
+msgid "Are you sure you want to mark this warehouse's products as error?"
+msgstr "Tem certeza de que deseja marcar os produtos deste warehouse como um erro?"
+
+#: View/Warehouses/admin_view.ctp:68
+#: View_backup/Warehouses/admin_view.ctp:68
+msgid "Disable warehouse"
+msgstr "Desativar armazém"
+
+#: View/Warehouses/admin_view.ctp:80
+#: View_backup/Warehouses/admin_view.ctp:80
+msgid "Enable warehouse"
+msgstr "Ativar armazém"
+
+#: View_backup/Elements/menu.ctp:81;85;103;107
+msgid "Wishlist"
+msgstr "Lista de Desejos"
+
+#: View_backup/Errors/error400.ctp:41
+msgid "<i class=\"fa fa-fw fa-home\"></i> Take me home"
+msgstr "<i class = \"fa fa-fw fa-home\"> </ i> Leve-me para casa"
+
+#: View_backup/Orders/admin_view.ctp:38
+msgid "Cancel order only"
+msgstr "Cancelar apenas a encomenda"
+
+#: View_backup/Orders/checkout.ctp:791;796
+#: View_backup/Orders/payment.ctp:250
+#: View_backup/Orders/rejected.ctp:104
+#: View_backup/Orders/review.ctp:642
+#: View_backup/Orders/shipping.ctp:234
+#: View_backup/Orders/succeed.ctp:105
+msgid "Tax to be collected"
+msgstr "Imposto a recolher"
+
+#: View_backup/Orders/checkout.ctp:802;807
+#: View_backup/Orders/payment.ctp:254
+#: View_backup/Orders/rejected.ctp:108
+#: View_backup/Orders/review.ctp:646
+#: View_backup/Orders/shipping.ctp:238
+#: View_backup/Orders/succeed.ctp:109
+msgid "Shipping and handling"
+msgstr "Envio e manipulação"
+
+#: View_backup/Orders/review.ctp:632
+msgid "Order subtotal"
+msgstr "Subtotal do pedido"
+
+#: View_backup/Schools/school_view.ctp:12
+msgid "Credit: %s"
+msgstr "Crédito:% s"
+
+#: View_backup/Schools/school_view.ctp:27
+msgid "School List Orders"
+msgstr "Ordens de lista escolar"
+
+#: View_backup/Schools/view.ctp:252
+msgid "In the bottom part of this list, you'll find \"Optional Products\", these products are optional according to the School, we leave the choice to include these products in the list to you."
+msgstr "Na parte inferior desta lista, você encontrará \"Produtos Opcionais\", esses produtos são opcionais de acordo com a Escola, deixamos a opção de incluir esses produtos na lista para você."
+
+#: View_backup/ShoppingCarts/index.ctp:553
+#: View_backup/ShoppingCarts/index_cookie.ctp:539
+msgid "Shipping & Handling"
+msgstr "Transporte e manuseio"
+
+#: webroot/plugins/infinite-scroll/wordpress-plugin/infinite-scroll.php:100
+msgid "No additional posts."
+msgstr "Nenhuma postagem adicional."
+
+#: webroot/plugins/infinite-scroll/wordpress-plugin/includes/admin.php:32
+msgid "Infinite Scroll Options"
+msgstr "Opções de Rolagem Infinitas"
+
+#: webroot/plugins/infinite-scroll/wordpress-plugin/includes/admin.php:32
+msgid "Infinite Scroll"
+msgstr "Rolagem infinita"
+
+#: webroot/plugins/infinite-scroll/wordpress-plugin/includes/admin.php:62
+msgid "Are you sure you want to delete the preset \"%s\"?"
+msgstr "Tem certeza de que deseja excluir a predefinição \"% s\"?"
+
+#: webroot/plugins/infinite-scroll/wordpress-plugin/templates/preset-prompt.php:7
+msgid "Other users have submitted default CSS selectors for your theme.  Would you like to <strong><a href=\"%s\">use your theme's default selectors</a></strong>?"
+msgstr "Outros usuários enviaram seletores CSS padrão para o seu tema. Gostaria de <strong> <a href=\"%s\"> usar os seletores padrão do seu tema </a> </ strong>?"
+
+#: webroot/plugins/infinite-scroll/wordpress-plugin/templates/submit-prompt.php:10
+msgid "Please consider <a href=\"%s\">submitting your theme's CSS selectors</a> to the global CSS selector database to make installation and configuration easier for other users"
+msgstr "Por favor, considere <a href=\"%s\"> o envio dos seletores CSS do seu tema </a> para o banco de dados seletor CSS global para facilitar a instalação e configuração de outros usuários"
+
+#: webroot/plugins/infinite-scroll/wordpress-plugin/templates/submit.php:13
+msgid "Navigate to the <a href=\"%s\" target=\"_BLANK\">Infinite Scroll Support Forum CSS Selectors Page</a>, and if you don't already have one, <a href=\"%s\" target=\"_BLANK\">create a WordPress.org account</a> (it takes 30 seconds!)."
+msgstr "Navegue até a <a href=\"%s\" target=\"_BLANK\"> Página de Seletores CSS do Infinite Scroll Support Forum </a> e, se você ainda não tiver um, <a href = \"% s\" target = \" _BLANK \"> crie uma conta no WordPress.org </a> (leva 30 segundos!)."
+
+#: webroot/plugins/infinite-scroll/wordpress-plugin/templates/submit.php:19
+msgid "All CSS Selectors:"
+msgstr "Todos os seletores de CSS:"
+
+#: webroot/plugins/infinite-scroll/wordpress-plugin/templates/submit.php:19
+msgid "Your CSS Selectors:"
+msgstr "Seus seletores de CSS:"
+
+#: Model/Agreement.php:validation for field email
+msgid "Please enter a valid email address"
+msgstr "Por favor insira um endereço de e-mail válido"
+
+#: Model/Agreement.php:validation for field estimated_students_qty;validation for field estimated_list_cost;validation for field estimated_purchases
+#: Model/Product.php:validation for field low_stock_alert_threshold
+msgid "Please enter a valid number"
+msgstr "Por favor insira um número válido"
+
+#: Model/AgreementCondition.php:validation for field rate;validation for field student_percentage
+msgid "The rate must be greater than 0"
+msgstr "A taxa deve ser maior que 0"
+
+#: Model/Bundle.php:validation for field name;validation for field status
+#: Model/BundleGroup.php:validation for field name;validation for field min_quantity;validation for field price_unit
+#: Model/CancelledItem.php:validation for field reason;validation for field observation
+#: Model/GenericListGroup.php:validation for field quantity;validation for field order
+#: Model/GenericListGroupProduct.php:validation for field quantity;validation for field suggested
+#: Model/ProductEstimatesItem.php:validation for field quantity;validation for field price
+#: Model/SchoolListEstimatesItem.php:validation for field quantity;validation for field price
+#: Model/SchoolOrder.php:validation for field reference;validation for field subtotal;validation for field tax;validation for field total;validation for field status;validation for field user_ip_address;validation for field billing_name;validation for field billing_street1;validation for field billing_city;validation for field billing_state;validation for field billing_zip_code;validation for field billing_country;validation for field stripe_charge_id;validation for field payment_last_4;validation for field payment_brand
+#: Model/SchoolOrderItem.php:validation for field quantity;validation for field price;validation for field cost_price;validation for field tax;validation for field tax_rate
+#: Model/SchoolWarehouseOrderProduct.php:validation for field product_name;validation for field quantity;validation for field sku;validation for field cost_price;validation for field total_price
+#: Model/ShoppingCartSchool.php:validation for field quantity
+#: Model/StripeSubscription.php:validation for field id_plan;validation for field plan;validation for field id_customer;validation for field customer;validation for field id_subscription;validation for field subscription
+#: Model/StripeSubscriptionEvent.php:validation for field amount
+#: Model/StripeSubscriptionPaymentCode.php:validation for field code
+#: Model/SupplierCashPayment.php:validation for field additional_information
+#: Model/SupplierCheckPayment.php:validation for field bank;validation for field additional_information
+#: Model/SupplierCreditCardPayment.php:validation for field additional_information
+#: Model/SupplierSalesWarning.php:validation for field amount
+msgid "notBlank"
+msgstr "notBlank"
+
+#: Model/Bundle.php:validation for field status
+#: Model/BundleGroup.php:validation for field min_quantity;validation for field price_unit
+#: Model/CancelledItem.php:validation for field cancelled_by;validation for field order_id;validation for field order_item_id
+#: Model/GenericListGroup.php:validation for field quantity;validation for field order
+#: Model/GenericListGroupProduct.php:validation for field quantity
+#: Model/OrderPaymentCode.php:validation for field order_id;validation for field stripe_subscription_payment_code_id;validation for field amount
+#: Model/PriceChange.php:validation for field operation;validation for field options;validation for field batch;validation for field user_id
+#: Model/PriceChangeItem.php:validation for field price_change_id;validation for field products_stock_id;validation for field product_id
+#: Model/ProductEstimatesItem.php:validation for field quantity
+#: Model/SalesOnOtherWebsite.php:validation for field product_id;validation for field quantity
+#: Model/SchoolListEstimatesItem.php:validation for field quantity
+#: Model/SchoolOrder.php:validation for field subtotal;validation for field tax;validation for field total;validation for field status
+#: Model/SchoolOrderItem.php:validation for field quantity;validation for field price;validation for field cost_price;validation for field tax;validation for field tax_rate
+#: Model/SchoolWarehouseOrderProduct.php:validation for field quantity;validation for field cost_price;validation for field total_price
+#: Model/ShoppingCartPaymentCode.php:validation for field stripe_subscription_payment_code_id;validation for field user_id
+#: Model/ShoppingCartSchool.php:validation for field quantity
+#: Model/StripeSubscription.php:validation for field user_id
+#: Model/StripeSubscriptionEvent.php:validation for field stripe_subscription_id
+#: Model/StripeSubscriptionPaymentCode.php:validation for field stripe_subscription_id;validation for field amount
+#: Model/SupplierCashPayment.php:validation for field supplier_id
+#: Model/SupplierCheckPayment.php:validation for field supplier_id;validation for field check_number
+#: Model/SupplierCreditCardPayment.php:validation for field supplier_id;validation for field credit_card;validation for field last_four_digits
+msgid "numeric"
+msgstr "numérico"
+
+#: Model/Bundle.php:validation for field image
+#: Model/Grade.php:validation for field image1
+#: Model/Product.php:validation for field image1;validation for field image2;validation for field image3;validation for field image4;validation for field image5
+msgid "Archivo excede el limite de tamaño de archivo de subida"
+msgstr "Arquivo excede o limite de tamanho de arquivo de subida"
+
+#: Model/Bundle.php:validation for field image
+#: Model/Grade.php:validation for field image1
+#: Model/Product.php:validation for field image1;validation for field image2;validation for field image3;validation for field image4;validation for field image5
+msgid "La imagen no es JPG ni PNG"
+msgstr "Não imaginado no JPG ni PNG"
+
+#: Model/Bundle.php:validation for field image
+#: Model/Grade.php:validation for field image1
+#: Model/Product.php:validation for field image1;validation for field image2;validation for field image3;validation for field image4;validation for field image5
+msgid "El tamaño de la imagen es demasiado grande"
+msgstr "O tamanho da imagem é muito grande"
+
+#: Model/Bundle.php:validation for field image
+#: Model/Grade.php:validation for field image1
+#: Model/Product.php:validation for field image1;validation for field image2;validation for field image3;validation for field image4;validation for field image5
+msgid "La imagen no tiene extension jpg o png"
+msgstr "La imagen no tiene extensão jpg o png"
+
+#: Model/BundleGroup.php:validation for field price_discount
+msgid "The Discount percentage can't be greater than 50%"
+msgstr "A porcentagem de desconto não pode ser maior que 50%"
+
+#: Model/CancelledItem.php:validation for field is_refunds
+msgid "boolean"
+msgstr "boleano"
+
+#: Model/Category.php:validation for field name
+#: Model/ListProduct.php:validation for field name
+#: Model/Product.php:validation for field name
+#: Model/School.php:validation for field name
+#: Model/SchoolList.php:validation for field name
+msgid "This name is already in use"
+msgstr "Esse nome já está em uso"
+
+#: Model/CategoryAttribute.php:validation for field name
+msgid "This attribute already exists in this category"
+msgstr "Este atributo já existe nesta categoria"
+
+#: Model/CommercialSupplier.php:validation for field email
+#: Model/ShippingSupplier.php:validation for field email
+#: Model/Supplier.php:validation for field email
+#: Model/Warehouse.php:validation for field email
+msgid "email"
+msgstr "o email"
+
+#: Model/CommercialSupplier.php:validation for field zip_code
+#: Model/ShippingSupplier.php:validation for field zip_code
+msgid "Length of 5 number"
+msgstr "Comprimento de 5 números"
+
+#: Model/CommercialSupplierCreditCardPayment.php:validation for field last_four_digits
+#: Model/ShippingSupplierCreditCardPayment.php:validation for field last_four_digits
+msgid "Please enter the last four digits of the card."
+msgstr "Por favor, insira os últimos quatro dígitos do cartão."
+
+#: Model/DiscountCode.php:validation for field discount_porcentage
+#: Model/DiscountCodesSpecial.php:validation for field discount_porcentage
+#: Model/DiscountCodesWarehouse.php:validation for field discount_porcentage
+msgid "Value must be greater than or equal to 1"
+msgstr "O valor deve ser maior ou igual a 1"
+
+#: Model/DiscountCode.php:validation for field discount_porcentage
+#: Model/DiscountCodesSpecial.php:validation for field discount_porcentage
+msgid "Max discount is 35%."
+msgstr "O desconto máximo é de 35%."
+
+#: Model/DiscountCode.php:validation for field email
+#: Model/DiscountCodesWarehouse.php:validation for field email
+#: Model/SchoolContact.php:validation for field email
+#: Model/ShippingSupplierContact.php:validation for field email
+#: Model/SupplierContact.php:validation for field email
+msgid "Please enter a valid email address."
+msgstr "Por favor insira um endereço de e-mail válido."
+
+#: Model/DiscountCodesWarehouse.php:validation for field discount_porcentage
+msgid "Max discount is 100%."
+msgstr "O desconto máximo é de 100%."
+
+#: Model/PriceChange.php:validation for field percentage
+#: Model/School.php:validation for field commission_rate;validation for field discount_products;validation for field students
+msgid "Value can't be a negative number"
+msgstr "O valor não pode ser um número negativo"
+
+#: Model/PriceChangeItem.php:validation for field price;validation for field real_cost_price;validation for field cost_price;validation for field old_price;validation for field old_real_cost_price;validation for field old_cost_price
+#: Model/SalesOnOtherWebsite.php:validation for field sale_price;validation for field commision_rate
+msgid "decimal"
+msgstr "decimal"
+
+#: Model/Product.php:validation for field shipping_width;validation for field shipping_depth;validation for field shipping_length;validation for field shipping_weight
+#: Model/ProductsStock.php:validation for field priority
+#: Model/ShippingSupplierHistory.php:validation for field shipping_price
+msgid "Priority can't be a negative number"
+msgstr "A prioridade não pode ser um número negativo"
+
+#: Model/Product.php:validation for field video_address
+msgid "This is not a valid video"
+msgstr "Este não é um vídeo válido"
+
+#: Model/ProductsStock.php:validation for field price;validation for field real_cost_price;validation for field cost_price
+msgid "Price can't be a negative number"
+msgstr "O preço não pode ser um número negativo"
+
+#: Model/ProductsStock.php:validation for field price
+msgid "The selling price can't be lower than the cost price"
+msgstr "O preço de venda não pode ser inferior ao preço de custo"
+
+#: Model/School.php:validation for field image
+#: Model/Setting.php:validation for field image
+msgid "The file size is too big"
+msgstr "O tamanho do arquivo é muito grande"
+
+#: Model/School.php:validation for field image
+#: Model/Setting.php:validation for field image
+msgid "The file must be jpg or png"
+msgstr "O arquivo deve ser jpg ou png"
+
+#: Model/School.php:validation for field start_date;validation for field end_date
+#: Model/SchoolGrade.php:validation for field start_date;validation for field end_date
+#: Model/Setting.php:validation for field home_modal_start_date;validation for field home_modal_end_date
+#: Model/SupplierSalesWarning.php:validation for field start_date;validation for field end_date
+msgid "Enter a valid date in MM/DD/YY Format."
+msgstr "Digite uma data válida no formato MM / DD / AA."
+
+#: Model/SchoolGrade.php:validation for field grade_id
+msgid "This grade can't be saved as unique since there are other sections already assigned for this grade."
+msgstr "Esta nota não pode ser salva como única, pois existem outras seções já atribuídas a essa nota."
+
+#: Model/SchoolRequest.php:validation for field email
+msgid "This is not a valid email address"
+msgstr "Este não é um endereço de e-mail válido"
+
+#: Model/SchoolWarehouseOrderProduct.php:validation for field product_name;validation for field sku
+msgid "alphaNumeric"
+msgstr "alphaNumeric"
+
+#: Model/SupplierCashPayment.php:validation for field payment_date
+#: Model/SupplierCheckPayment.php:validation for field payment_date
+#: Model/SupplierCreditCardPayment.php:validation for field payment_date
+msgid "date"
+msgstr "encontro"
+
+#: Plugin/Mailchimp/Model/MailchimpSubscriber.php:validation for field email
+msgid "Please enter a valid e-mail address"
+msgstr "Por favor insira um endereço de e-mail válido"
+
+#: Plugin/Queue/Model/CronTask.php:validation for field jobtype;validation for field name;validation for field title;validation for field failed;validation for field status
+msgid "valErrMandatoryField"
+msgstr "valErrMandatoryField"
+
+#: Plugin/Queue/Model/CronTask.php:validation for field name;validation for field title
+msgid "valErrRecordNameExists"
+msgstr "valErrRecordNameExists"
+
+#: Plugin/Queue/Model/CronTask.php:validation for field interval
+msgid "valErrInvalidRange"
+msgstr "valErrInvalidRange"
